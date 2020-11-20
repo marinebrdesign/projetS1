@@ -11,7 +11,7 @@ p, h1, h2, h3, h4, ul {
     color: #250B55;
 }
 
-.menu {
+.menu li {
     font-family: "lato Bold";
     font-size: 18px;
 }
@@ -31,13 +31,46 @@ body {
 }
 
 span {
-    font-style: italic;
+    /*font-style: italic;*/
     font-size: 14px;
-    font-family: "roboto b";
+    font-family: "roboto bold italic";
     color: #250B55;
 }
 
 .presentation-site h2 {
     font-family: "Poppins SemiBold";
     font-size: 15px;
+}
+
+.source p {
+    font-family:"Roboto Light";
+    font-weight: 10px;
+
+}
+
+p {
+    font-family: Roboto;
+    font-weight: 15px;
+}
+
+.tweet1 p,.tweet2 p, .tweet3 p {
+    font-family: "Poppins bold";
+    font-weight: 13px;
+}
+
+.tweet1 a,.twee21 a,.tweet3 a {
+    font-family: "Poppins Light";
+    font-weight: 12px;
+    text-decoration: underline #250B55;
+}
+
+footer p {
+    font-family: "Roboto Medium";
+    font-weight: 15px;
+}
+
+footer .mentions-legales.module-footer a {
+    font-family: "Roboto Medium";
+    font-weight: 15px;
+    text-decoration: underline #250B55;
 }
