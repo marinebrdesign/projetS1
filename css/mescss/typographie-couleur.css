@@ -24,3 +24,20 @@ p, h1, h2, h3, h4, ul {
 body {
     background-color: #FFFCF1;
 }
+
+.barre-navigation {
+    font-family: "Poppins Black";
+    font-size: 15px;
+}
+
+span {
+    font-style: italic;
+    font-size: 14px;
+    font-family: "roboto b";
+    color: #250B55;
+}
+
+.presentation-site h2 {
+    font-family: "Poppins SemiBold";
+    font-size: 15px;
+}
