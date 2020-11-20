@@ -43,7 +43,7 @@
 /*Menu*/
 
 .menu {
-    background-color: #FFFCF1;
+    background-color: #ECB9DD;
     position: fixed;
     top: 0;
     left: 0;
@@ -68,14 +68,14 @@
 
 .menu ul {
     list-style: none;
-    margin: 0;
-    padding: 0;
-    font-size: 2.3rem;
-    text-transform: uppercase;
+   /* margin: 0;
+    padding: 0;*/
+    padding-right: 145px;
+    padding-left: 58px;
 }
 
-.menu li {
-    margin-bottom: 30px;
+.menu li, .menu h1 {
+    margin-bottom: 50px;
     transform: translateX(30px);
     opacity: 0;
     transition: all .4s ease;
@@ -85,7 +85,7 @@
         color: #250B55;
 }
 
-.menu-open .menu li {
+.menu-open .menu li,.menu-open .menu h1 {
     transform: translateX(0);
     opacity: 1;
 }
