@@ -16,18 +16,13 @@ p, h1, h2, h3, h4,ul {
     font-size: 18px;
 }
 
-.menu h1 {
+.menu h1, .barre-navigation {
     font-family: "Poppins Black";
     font-size: 15px;
 }
 
 body {
     background-color: #FFFCF1;
-}
-
-.barre-navigation {
-    font-family: "Poppins Black";
-    font-size: 15px;
 }
 
 span {
@@ -135,13 +130,7 @@ h4 {
     text-transform: none;
 }
 
-#a-propos h3 { /* a revoir*/
-    font-family: "Poppins SemiBold";
-    font-weight: 16px;
-    text-transform: none;
-}
-
-#autres_projets h3 { /* a revoir*/
+#a-propos h3,#autres_projets h3  { /* a revoir*/
     font-family: "Poppins SemiBold";
     font-weight: 16px;
     text-transform: none;
