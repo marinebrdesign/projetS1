@@ -1,3 +1,4 @@
+/* page d'accueil*/
 span {
     margin-left: 51px;
     margin-right: 51px;
@@ -43,4 +44,25 @@ span {
     margin-right: 56px;
     margin-top: 10px;
     text-align: center;
+}
+
+footer {
+    margin-top: 34px;
+}
+
+.contact.module-footer, .mentions-legales.module-footer {
+    display: table-cell;
+    width: 375px;
+}
+
+.contact.module-footer > address > p {
+    margin: 0 0 0 10px;
+}
+
+.mentions-legales.module-footer p {
+    margin-right: 10px;
+}
+
+.reseaux.module-footer li {
+    display: inline;
 }

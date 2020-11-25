@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="fin de la mise en page des tweets pour le moment">
+      <change beforePath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1k5aIF6Be3URDETFt3mf877YXuI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="" />
+      <created>1604992824807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604992824807</updated>
+      <workItem from="1604992825867" duration="1676000" />
+      <workItem from="1605037926203" duration="23000" />
+      <workItem from="1605110543558" duration="4280000" />
+      <workItem from="1605371618973" duration="2107000" />
+      <workItem from="1605383451275" duration="4435000" />
+      <workItem from="1605440545193" duration="7416000" />
+      <workItem from="1605524212505" duration="10000" />
+      <workItem from="1605531521732" duration="4959000" />
+      <workItem from="1605545085529" duration="42000" />
+      <workItem from="1605644552423" duration="3851000" />
+      <workItem from="1605798355389" duration="2050000" />
+      <workItem from="1605803176544" duration="4469000" />
+      <workItem from="1605818223531" duration="8000" />
+      <workItem from="1605825804125" duration="778000" />
+      <workItem from="1605889007867" duration="5606000" />
+      <workItem from="1605975215736" duration="1541000" />
+      <workItem from="1605979755538" duration="3213000" />
+      <workItem from="1606053735658" duration="8000" />
+      <workItem from="1606061436542" duration="4145000" />
+      <workItem from="1606065596723" duration="1793000" />
+      <workItem from="1606075396265" duration="168000" />
+      <workItem from="1606127187574" duration="12000" />
+      <workItem from="1606153574496" duration="1287000" />
+      <workItem from="1606207067785" duration="34000" />
+      <workItem from="1606208058853" duration="558000" />
+      <workItem from="1606251085757" duration="3081000" />
+      <workItem from="1606290521766" duration="14000" />
+      <workItem from="1606290557241" duration="9104000" />
+    </task>
+    <task id="LOCAL-00001" summary="html de la page d'accueil">
+      <created>1605371663945</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605371663945</updated>
+    </task>
+    <task id="LOCAL-00002" summary="html article 1,2,3">
+      <created>1605446108150</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605446108150</updated>
+    </task>
+    <task id="LOCAL-00003" summary="html article 4">
+      <created>1605459139758</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605459139758</updated>
+    </task>
+    <task id="LOCAL-00004" summary="html page contact et corrextion html des autres pages">
+      <created>1605533641701</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605533641701</updated>
+    </task>
+    <task id="LOCAL-00005" summary="correction des images + ajout de la vidéo + ajout du css &quot;menu&quot;">
+      <created>1605537084073</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605537084073</updated>
+    </task>
+    <task id="LOCAL-00006" summary="icône menu">
+      <created>1605798386185</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605798386185</updated>
+    </task>
+    <task id="LOCAL-00007" summary="création du menu">
+      <created>1605800402535</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605800402535</updated>
+    </task>
+    <task id="LOCAL-00008" summary="correction code html et ajout de la couleur du fond">
+      <created>1605891489366</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605891489366</updated>
+    </task>
+    <task id="LOCAL-00009" summary="correction html titre &quot;polluting Girl&quot;">
+      <created>1605892091646</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605892091646</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ajout des div &quot;source&quot; et continuation des typographies et couleur">
+      <created>1605893263479</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605893263479</updated>
+    </task>
+    <task id="LOCAL-00011" summary="continuation de la typographie et couleur">
+      <created>1605894649741</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1605894649741</updated>
+    </task>
+    <task id="LOCAL-00012" summary="continuation de la typographie et couleur (titres, images, temps de lecture)">
+      <created>1606067386780</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1606067386780</updated>
+    </task>
+    <task id="LOCAL-00013" summary="bientôt fini la typographie et couleurs, commencent des styles graphiques">
+      <created>1606154263279</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1606154263279</updated>
+    </task>
+    <task id="LOCAL-00014" summary="correction du code html avec figcaption">
+      <created>1606253505471</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1606253505471</updated>
+    </task>
+    <task id="LOCAL-00015" summary="correction de l'icône menu">
+      <created>1606253818565</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1606253818565</updated>
+    </task>
+    <task id="LOCAL-00016" summary="margin du span">
+      <created>1606254252692</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1606254252692</updated>
+    </task>
+    <task id="LOCAL-00017" summary="commencement de la mise en page des tweets">
+      <created>1606294125171</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1606294125171</updated>
+    </task>
+    <task id="LOCAL-00018" summary="fin de la mise en page des tweets pour le moment">
+      <created>1606294940163</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1606294940163</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="html de la page d'accueil" />
+    <MESSAGE value="html article 1,2,3" />
+    <MESSAGE value="html article 4" />
+    <MESSAGE value="html page contact et corrextion html des autres pages" />
+    <MESSAGE value="correction des images + ajout de la vidéo + ajout du css &quot;menu&quot;" />
+    <MESSAGE value="icône menu" />
+    <MESSAGE value="création du menu" />
+    <MESSAGE value="correction code html et ajout de la couleur du fond" />
+    <MESSAGE value="correction html titre &quot;polluting Girl&quot;" />
+    <MESSAGE value="ajout des div &quot;source&quot; et continuation des typographies et couleur" />
+    <MESSAGE value="continuation de la typographie et couleur" />
+    <MESSAGE value="continuation de la typographie et couleur (titres, images, temps de lecture)" />
+    <MESSAGE value="bientôt fini la typographie et couleurs, commencent des styles graphiques" />
+    <MESSAGE value="correction du code html avec figcaption" />
+    <MESSAGE value="correction de l'icône menu" />
+    <MESSAGE value="margin du span" />
+    <MESSAGE value="commencement de la mise en page des tweets" />
+    <MESSAGE value="fin de la mise en page des tweets pour le moment" />
+    <option name="LAST_COMMIT_MESSAGE" value="fin de la mise en page des tweets pour le moment" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="241" y="187" key="FileChooserDialogImpl" timestamp="1606290526816">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="241" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1606290526816" />
+    <state x="809" y="198" width="672" height="677" key="run.anything.popup" timestamp="1605535752639">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="809" y="198" width="672" height="677" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1605535752639" />
+  </component>
+</project>
