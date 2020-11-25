@@ -1,4 +1,22 @@
 span {
     margin-left: 51px;
+    margin-right: 51px;
     margin-top: 50px;
+}
+
+.presentation-site p {
+    margin-left: 31px;
+    margin-right: 31px;
+}
+
+.tweet1 figure {
+    margin-left: 35px;
+    margin-top: 49px;
+}
+
+.tweet1 p { /* a revoir*/
+    margin-left: 44px;
+    margin-right: 44px;
+    margin-top: 10px;
+    text-align: center;
 }
