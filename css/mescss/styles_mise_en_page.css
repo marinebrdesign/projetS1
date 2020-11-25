@@ -1,48 +1,40 @@
 /* page d'accueil*/
 span {
-    margin-left: 51px;
-    margin-right: 51px;
-    margin-top: 50px;
+    padding: 50px 51px 0 51px;
 }
 
 .presentation-site p {
-    margin-left: 31px;
-    margin-right: 31px;
+    padding-left:  31px;
+    padding-right: 31px;
 }
 
 .tweet1 figure {
-    margin-left: 35px;
-    margin-top: 49px;
+    padding-left: 35px;
+    padding-top:  49px;
 }
 
 .tweet1 p { /* a revoir*/
-    margin-left: 44px;
-    margin-right: 44px;
-    margin-top: 10px;
+    padding: 10px 44px 0 44px;
     text-align: center;
 }
 
 .tweet2 figure {
-    margin-left: 67px;
-    margin-top: 78px;
+    padding-left: 67px;
+    padding-top: 78px;
 }
 
 .tweet2 p { /* a revoir*/
-    margin-left: 52px;
-    margin-right: 51px;
-    margin-top: 10px;
+    padding: 10px 51px 0 52px;
     text-align: center;
 }
 
 .tweet3 figure {
-    margin-left: 92px;
-    margin-top: 87px;
+    padding-left: 92px;
+    padding-top: 87px;
 }
 
 .tweet3 p { /* a revoir*/
-    margin-left: 57px;
-    margin-right: 56px;
-    margin-top: 10px;
+    padding: 10px 56px 0 57px;
     text-align: center;
 }
 
@@ -56,13 +48,36 @@ footer {
 }
 
 .contact.module-footer > address > p {
-    margin: 0 0 0 10px;
+    padding: 0 0 0 10px;
 }
 
 .mentions-legales.module-footer p {
-    margin-right: 10px;
+    padding-right: 10px;
 }
 
 .reseaux.module-footer li {
     display: inline;
+}
+
+/* pages article*/
+
+.image-série h2 {
+    text-align: left;
+    padding : 20px 96px 0 96px;
+}
+
+.image-série .temps-lecture {
+    padding-left: 190px;
+}
+
+.image-série figure {
+    padding : 5px 63px 5px 64px;
+}
+
+.center {
+    padding : 5px 33px 0 33px
+}
+
+#serie figure { /*a revoir*/
+    padding:5px 90px 15px 119px;
 }

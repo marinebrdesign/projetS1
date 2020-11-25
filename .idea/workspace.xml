@@ -19,8 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="fin de la mise en page des tweets pour le moment">
+    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="mise en page de la page d'accueil">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/girlboss-et-la-pollution-numerique.html" beforeDir="false" afterPath="$PROJECT_DIR$/girlboss-et-la-pollution-numerique.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +61,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="" />
+      <changelist id="" name="mise en page de la p" comment="" />
       <created>1604992824807</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -90,7 +93,7 @@
       <workItem from="1606208058853" duration="558000" />
       <workItem from="1606251085757" duration="3081000" />
       <workItem from="1606290521766" duration="14000" />
-      <workItem from="1606290557241" duration="9104000" />
+      <workItem from="1606290557241" duration="11685000" />
     </task>
     <task id="LOCAL-00001" summary="html de la page d'accueil">
       <created>1605371663945</created>
@@ -218,7 +221,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606294940163</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="mise en page de la p">
+      <created>1606299809354</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1606299809354</updated>
+    </task>
+    <task id="LOCAL-00020" summary="mise en page de la page d'accueil">
+      <created>1606299932525</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1606299932525</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,13 +272,19 @@
     <MESSAGE value="margin du span" />
     <MESSAGE value="commencement de la mise en page des tweets" />
     <MESSAGE value="fin de la mise en page des tweets pour le moment" />
-    <option name="LAST_COMMIT_MESSAGE" value="fin de la mise en page des tweets pour le moment" />
+    <MESSAGE value="mise en page de la p" />
+    <MESSAGE value="mise en page de la page d'accueil" />
+    <option name="LAST_COMMIT_MESSAGE" value="mise en page de la page d'accueil" />
   </component>
   <component name="WindowStateProjectService">
     <state x="241" y="187" key="FileChooserDialogImpl" timestamp="1606290526816">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="241" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1606290526816" />
+    <state x="295" y="349" key="VCS.ChangelistChooser" timestamp="1606299830535">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="295" y="349" key="VCS.ChangelistChooser/0.0.1536.864@0.0.1536.864" timestamp="1606299830535" />
     <state x="809" y="198" width="672" height="677" key="run.anything.popup" timestamp="1605535752639">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
