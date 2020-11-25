@@ -20,3 +20,27 @@ span {
     margin-top: 10px;
     text-align: center;
 }
+
+.tweet2 figure {
+    margin-left: 67px;
+    margin-top: 78px;
+}
+
+.tweet2 p { /* a revoir*/
+    margin-left: 52px;
+    margin-right: 51px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.tweet3 figure {
+    margin-left: 92px;
+    margin-top: 87px;
+}
+
+.tweet3 p { /* a revoir*/
+    margin-left: 57px;
+    margin-right: 56px;
+    margin-top: 10px;
+    text-align: center;
+}
