@@ -3,6 +3,15 @@ span {
     padding: 50px 51px 0 51px;
 }
 
+.presentation-site img {
+    width: 100%;
+}
+
+.presentation-site figure {
+    margin: 0;
+}
+
+
 .presentation-site p {
     padding-left:  31px;
     padding-right: 31px;
@@ -75,6 +84,7 @@ footer {
 
 .image-série figure {
     padding : 5px 63px 5px 64px;
+    margin: 0;
 }
 
 .center {
@@ -83,4 +93,10 @@ footer {
 
 #serie figure { /*a revoir*/
     padding:5px 90px 15px 119px;
+    margin: 0;
+}
+
+#pollution figure {
+    padding:48px 38px 79px 38px;
+    margin: 0;
 }
