@@ -71,7 +71,7 @@ footer {
     display: inline;
 }
 
-/* pages article*/
+/* pages article 1*/
 
 .image-série h2 {
     text-align: left;
@@ -99,4 +99,13 @@ footer {
 #pollution figure {
     padding:48px 38px 79px 38px;
     margin: 0;
+}
+
+.galerie h2 {
+    margin: 0;
+    padding: 32px 73px 14px 73px;
+}
+
+.galerie figure {
+    margin: 14px 0 47px 25px;
 }
