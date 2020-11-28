@@ -11,6 +11,7 @@ span {
 .tweet1 figure {
     padding-left: 35px;
     padding-top:  49px;
+    margin: 0;
 }
 
 .tweet1 p { /* a revoir*/
@@ -21,6 +22,7 @@ span {
 .tweet2 figure {
     padding-left: 67px;
     padding-top: 78px;
+    margin: 0;
 }
 
 .tweet2 p { /* a revoir*/
@@ -31,6 +33,7 @@ span {
 .tweet3 figure {
     padding-left: 92px;
     padding-top: 87px;
+    margin: 0;
 }
 
 .tweet3 p { /* a revoir*/
