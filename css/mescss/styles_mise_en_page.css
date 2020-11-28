@@ -80,6 +80,7 @@ footer {
 
 .image-série .temps-lecture {
     padding-left: 190px;
+    padding-right: 40px;
 }
 
 .image-série figure {
@@ -108,4 +109,30 @@ footer {
 
 .galerie figure {
     margin: 14px 0 47px 25px;
+}
+
+li {
+    padding-bottom: 10px;
+}
+
+/* pages article 2*/
+.image-article2 h2 {
+    text-align: left;
+    padding : 42px 56px 0 53px;
+    margin: 0;
+}
+
+.image-article2 .temps-lecture {
+    padding-left: 148px;
+    padding-right: 55px;
+}
+
+.image-article2 figure {
+    margin: 0;
+    padding: 20px 60px 0 50px;
+}
+
+#pollution-numerique figure { /*a revoir*/
+    padding:40px 0 10px 90px;
+    margin: 0;
 }
