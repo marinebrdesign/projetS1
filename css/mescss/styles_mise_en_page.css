@@ -118,7 +118,7 @@ li {
 /* pages article 2*/
 .image-article2 h2 {
     text-align: left;
-    padding : 42px 56px 0 53px;
+    padding : 42px 56px 0 56px;
     margin: 0;
 }
 
@@ -134,5 +134,38 @@ li {
 
 #pollution-numerique figure { /*a revoir*/
     padding:40px 0 10px 90px;
+    margin: 0;
+}
+
+/*page article 3*/
+.image-article3 h2 {
+    text-align: left;
+    padding : 42px 50px 0 50px;
+    margin: 0;
+}
+
+.image-article3 .temps-lecture {
+    padding-left: 152px;
+    padding-right: 74px;
+}
+
+.image-article3 figure {
+    margin: 0;
+    padding: 30px 60px 30px 50px;
+}
+
+#livraisons figure { /*a revoir*/
+    padding: 0 0 15px 100px;
+    margin: 0;
+}
+
+#internet figure { /*a revoir*/
+    padding: 0 0 15px 40px;
+    margin: 0;
+}
+
+
+#emballages figure { /*a revoir*/
+    padding: 0 0 15px 125px;
     margin: 0;
 }
