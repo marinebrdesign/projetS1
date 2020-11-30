@@ -19,10 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="fin de la mise en page article 3 pour le moment">
+    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="début mise en page de la page contact, plus correction de la couleur de quelques éléments">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/le-commerce-par-internet-est-un-desastre-ecologique.html" beforeDir="false" afterPath="$PROJECT_DIR$/le-commerce-par-internet-est-un-desastre-ecologique.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +98,7 @@
       <workItem from="1606607043311" duration="3000" />
       <workItem from="1606656591894" duration="8000" />
       <workItem from="1606673719503" duration="3659000" />
-      <workItem from="1606731240583" duration="635000" />
+      <workItem from="1606731240583" duration="3215000" />
     </task>
     <task id="LOCAL-00001" summary="html de la page d'accueil">
       <created>1605371663945</created>
@@ -282,7 +282,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606678130670</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="fin de la mise en page article 4 pour le moment">
+      <created>1606732054165</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1606732054165</updated>
+    </task>
+    <task id="LOCAL-00028" summary="début mise en page de la page contact, plus correction de la couleur de quelques éléments">
+      <created>1606733002482</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1606733002482</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,8 +315,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="html article 4" />
-    <MESSAGE value="html page contact et corrextion html des autres pages" />
     <MESSAGE value="correction des images + ajout de la vidéo + ajout du css &quot;menu&quot;" />
     <MESSAGE value="icône menu" />
     <MESSAGE value="création du menu" />
@@ -326,13 +338,15 @@
     <MESSAGE value="fin de la mise en page de l'article 1 pour le moment" />
     <MESSAGE value="fin de la page article 2 pour le moment" />
     <MESSAGE value="fin de la mise en page article 3 pour le moment" />
-    <option name="LAST_COMMIT_MESSAGE" value="fin de la mise en page article 3 pour le moment" />
+    <MESSAGE value="fin de la mise en page article 4 pour le moment" />
+    <MESSAGE value="début mise en page de la page contact, plus correction de la couleur de quelques éléments" />
+    <option name="LAST_COMMIT_MESSAGE" value="début mise en page de la page contact, plus correction de la couleur de quelques éléments" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="241" y="187" key="FileChooserDialogImpl" timestamp="1606656598397">
+    <state x="241" y="187" key="FileChooserDialogImpl" timestamp="1606731864615">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="241" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1606656598397" />
+    <state x="241" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1606731864615" />
     <state width="560" height="446" key="SwitcherDM" timestamp="1606605467569">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

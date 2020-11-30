@@ -201,3 +201,16 @@ li {
 #me-contacter h4 {
     text-align: center;
 }
+
+#autres_projets > .projets-gauche,#autres_projets > .projets-droite {
+    display: table-cell;
+    width: 188px;
+}
+
+#autres_projets figure {
+    margin: 0;
+}
+
+#autres_projets ul {
+    padding: 0;
+}
