@@ -214,3 +214,28 @@ li {
 #autres_projets ul {
     padding: 0;
 }
+
+.projets-droite li {
+    padding: 5px 22px 5px 10px;
+}
+
+.projets-gauche li {
+    padding: 5px 10px 5px 22px;
+}
+
+.projets-gauche li:nth-child(3),.projets-gauche li:nth-child(4) {
+    padding-bottom: 20px;
+}
+
+.projets-gauche li:nth-child(5) {
+    padding: 10px 10px 5px 22px;
+}
+
+.projets-droite li:nth-child(3) {
+    padding: 23px 22px 2px 10px;
+}
+
+#autres_projets > ul {
+    padding: 0 114px 5px 114px;
+    margin: 0;
+}
