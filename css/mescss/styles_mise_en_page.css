@@ -169,3 +169,22 @@ li {
     padding: 0 0 15px 125px;
     margin: 0;
 }
+
+/*page artcile 4*/
+
+.image-article4 h2 {
+    text-align: left;
+    padding : 42px 47px 0 60px;
+    margin: 0;
+}
+
+.image-article4 .temps-lecture {
+    padding-left: 187px;
+    padding-right: 40px;
+}
+
+.image-article4 figure {
+    margin: 0;
+    padding: 0 38px 10px 67px;
+}
+
