@@ -188,3 +188,16 @@ li {
     padding: 0 38px 10px 67px;
 }
 
+/* page contact*/
+
+.image-contact h2 {
+    text-align: center;
+    padding-top: 42px;
+    margin: 0;
+}
+
+/*#a-propos p : aller à la ligne ?*/
+
+#me-contacter h4 {
+    text-align: center;
+}
