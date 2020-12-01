@@ -1,4 +1,9 @@
 /* page d'accueil*/
+.barre-navigation h1 {
+    text-align: center;
+    padding: 14px 0 5px 0;
+}
+
 span {
     padding: 50px 51px 0 51px;
 }

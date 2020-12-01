@@ -11,18 +11,35 @@ p, h1, h2, h3, h4,ul {
     color: #250B55;
 }
 
-.menu li {
-    font-family: lato;
+.menu a {
+    font-family: Lato;
+    font-weight: 700;
     font-size: 18px;
 }
 
-.menu h1, .barre-navigation {
+.barre-navigation {
     font-family: "Poppins Black";
+    font-size: 15px;
+}
+
+.menu h1 {
+    text-transform: uppercase;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: 900;
     font-size: 15px;
 }
 
 body {
     background-color: #FFFCF1;
+}
+
+.barre-navigation h1 {
+    text-transform: uppercase;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: 900;
+    font-size: 15px;
 }
 
 span {
