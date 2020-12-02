@@ -8,7 +8,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    z-index: 2;
+    z-index: 3;
 }
 
 .nav-toggle-bar,.nav-toggle-bar::before,.nav-toggle-bar::after {
@@ -53,7 +53,7 @@
     align-items: center;
     justify-content: center;
     transform: translateX(-100vw);
-    z-index: 1;
+    z-index: 2;
 }
 
 .menu-open .menu {
@@ -102,3 +102,28 @@
 .menu-open .menu li :nth-child(n+4) { transition-delay: .45s;}
 .menu-open .menu li :nth-child(n+5) { transition-delay: .5s;}
 .menu-open .menu li :nth-child(n+6) { transition-delay: .55s;}
+
+/* décoration*/
+#triangle-haut{
+    display : inline-block;
+    height : 0;
+    width : 0;
+    border-top : 258px solid #FFFCF1;
+    border-left : 200px solid transparent;
+    z-index: -1;
+    position: absolute;
+    left: 175px;
+    bottom: 555px;
+}
+
+#triangle-bas{
+    display : inline-block;
+    height : 0;
+    width : 0;
+    border-right : 200px solid transparent;
+    border-bottom : 258px solid #FFFCF1;
+    z-index: -1;
+    position: absolute;
+    right: 175px;
+    top: 555px;
+}
