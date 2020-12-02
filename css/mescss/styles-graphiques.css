@@ -1,9 +1,17 @@
-/*#rectangle-orange {
+#rectangle-orange {
     width:181px;
     height:165px;
     background:#F8C66A;
-    z-index: 1;
     position: absolute;
     left: 10px;
-    bottom:513px;
-} en pause pour le moment*/
+    top:605px;
+}
+
+#rectangle-blanc {
+    width:324px;
+    height:122px;
+    background:#FFFFFF;
+    position: absolute;
+    left: 21px;
+    top:623px;
+}
