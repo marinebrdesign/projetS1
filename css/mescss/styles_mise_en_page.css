@@ -44,7 +44,7 @@ span {
     z-index: 1;
     position: absolute;
     left: 220px;
-    top: 780px;
+    top: 800px;
     right: 30px;
 }
 
@@ -54,8 +54,12 @@ span {
 
 
 .tweet1 p { /* a revoir*/
-    padding: 10px 44px 0 44px;
     text-align: center;
+    z-index: 1;
+    position: absolute;
+    left: 44px;
+    right: 44px;
+    top: 1200px;
 }
 
 .tweet2 figure {

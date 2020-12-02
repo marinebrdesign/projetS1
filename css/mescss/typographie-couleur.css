@@ -64,28 +64,29 @@ figcaption { /* a revoir*/
 
 p, ul {
     font-family: Roboto;
-    font-weight: 15px;
+    font-size: 15px;
 }
 
 .tweet1 p,.tweet2 p, .tweet3 p {
     font-family: Poppins;
-    font-weight: 13px;
+    font-weight: 500;
+    font-size: 13px;
 }
 
 .tweet1 a,.twee2, a,.tweet3 a {
     font-family: "Poppins Light";
-    font-weight: 12px;
+    font-size: 12px;
     text-decoration: underline #250B55;
 }
 
 footer p {
     font-family: "Roboto Medium";
-    font-weight: 15px;
+    font-size: 15px;
 }
 
 footer .mentions-legales.module-footer a {
     font-family: "Roboto Medium";
-    font-weight: 15px;
+    font-size: 15px;
     text-decoration: underline #250B55;
 }
 
@@ -95,18 +96,18 @@ footer .mentions-legales.module-footer a {
 
 h3 {
     font-family: Poppins;
-    font-weight: 15px;
+    font-size: 15px;
 }
 
 h2 { /*a revoir*/
     font-family: Poppins;
-    font-weight: 16px;
+    font-size: 16px;
 }
 
 .chapeau { /* a revoir */
     font-family: Poppins;
     font-style: italic;
-    font-weight: 15px;
+    font-size: 15px;
 }
 
 .pullquote,.citation {
@@ -118,39 +119,39 @@ h2 { /*a revoir*/
 
 h4 {
     font-family: roboto;
-    font-weight: 15px;
+    font-size: 15px;
     text-transform: uppercase;
 }
 
 #scientifique p:last-of-type {
     font-family: "Roboto Light";
     font-style: italic;
-    font-weight: 13px;
+    font-size: 13px;
 }
 
 .temps-lecture { /* revoir article 4*/
     font-family: Roboto;
-    font-weight: 11px;
+    font-size: 11px;
 }
 
 .image-série > .temps-lecture > p {
     font-family: Roboto;
-    font-weight: 11px;
+    font-size: 11px;
     color: #FFFF;
 }
 #autres_projets b {
     font-family: Roboto;
-    font-weight: 14px;
+    font-size: 14px;
 }
 
 #me-contacter h4 { /* a revoir*/
     font-family: roboto;
-    font-weight: 16px;
+    font-size: 16px;
     text-transform: none;
 }
 
 #a-propos h3,#autres_projets h3  { /* a revoir*/
     font-family: "Poppins SemiBold";
-    font-weight: 16px;
+    font-size: 16px;
     text-transform: none;
 }
