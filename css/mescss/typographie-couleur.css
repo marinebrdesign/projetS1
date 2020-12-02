@@ -56,10 +56,10 @@ span {
 }
 
 figcaption { /* a revoir*/
-    font-family:"Roboto Light";
-    font-weight: 10px;
+    font-family:Roboto;
+    font-weight: 400;
+    font-size: 11px;
     color: #250B55;
-
 }
 
 p, ul {

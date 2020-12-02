@@ -39,6 +39,20 @@ span {
     margin: 166px 0 0 0;
 }
 
+.tweet1 figcaption {
+    text-align: center;
+    z-index: 1;
+    position: absolute;
+    left: 220px;
+    top: 780px;
+    right: 30px;
+}
+
+.tweet1 > figure > figcaption > p {
+   padding: 10px 10px 0 10px;
+}
+
+
 .tweet1 p { /* a revoir*/
     padding: 10px 44px 0 44px;
     text-align: center;
