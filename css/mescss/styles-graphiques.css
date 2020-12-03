@@ -110,3 +110,13 @@
     border-right : 285px solid transparent;
     border-bottom : 214px solid #513C77;
 }
+
+#rectangle-nasty {
+    width:162px;
+    height:57px;
+    background:#000000;
+    position: absolute;
+    left: 180px;
+    top:1245px;
+    z-index: -1;
+}
