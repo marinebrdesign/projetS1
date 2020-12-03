@@ -19,11 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="style graphique et positionnement du tweet 1 et correction des typographies">
+    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="correction du menu des autres pages">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/typographie-couleur.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typographie-couleur.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/girlboss-et-la-pollution-numerique.html" beforeDir="false" afterPath="$PROJECT_DIR$/girlboss-et-la-pollution-numerique.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +109,7 @@
       <workItem from="1606917485880" duration="27000" />
       <workItem from="1606923014879" duration="3963000" />
       <workItem from="1606932774057" duration="14051000" />
-      <workItem from="1607011707317" duration="2580000" />
+      <workItem from="1607011707317" duration="8014000" />
     </task>
     <task id="LOCAL-00001" summary="html de la page d'accueil">
       <created>1605371663945</created>
@@ -390,7 +391,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606934229279</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="styles graphiques et mise en page des tweets 2 et 3">
+      <created>1607014487897</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1607014487897</updated>
+    </task>
+    <task id="LOCAL-00042" summary="correction du menu des autres pages">
+      <created>1607014601377</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1607014601377</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -409,8 +424,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commencement de la mise en page des tweets" />
-    <MESSAGE value="fin de la mise en page des tweets pour le moment" />
     <MESSAGE value="mise en page de la p" />
     <MESSAGE value="mise en page de la page d'accueil" />
     <MESSAGE value="commencement de la mise en page des parges articles" />
@@ -434,7 +447,9 @@
     <MESSAGE value="création des rectangles de la partie &quot;présentation&quot;" />
     <MESSAGE value="positionnement de la source du tweet 1" />
     <MESSAGE value="style graphique et positionnement du tweet 1 et correction des typographies" />
-    <option name="LAST_COMMIT_MESSAGE" value="style graphique et positionnement du tweet 1 et correction des typographies" />
+    <MESSAGE value="styles graphiques et mise en page des tweets 2 et 3" />
+    <MESSAGE value="correction du menu des autres pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="correction du menu des autres pages" />
   </component>
   <component name="WindowStateProjectService">
     <state x="241" y="187" key="FileChooserDialogImpl" timestamp="1606917510601">
@@ -449,10 +464,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="295" y="349" key="VCS.ChangelistChooser/0.0.1536.864@0.0.1536.864" timestamp="1606299830535" />
-    <state x="346" y="163" key="Vcs.Push.Dialog.v2" timestamp="1606741473451">
+    <state x="346" y="163" key="Vcs.Push.Dialog.v2" timestamp="1607014500912">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="346" y="163" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1606741473451" />
+    <state x="346" y="163" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1607014500912" />
     <state x="809" y="198" width="672" height="677" key="run.anything.popup" timestamp="1605535752639">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

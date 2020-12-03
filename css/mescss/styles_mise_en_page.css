@@ -168,16 +168,43 @@ footer {
 .image-série h2 {
     text-align: left;
     padding : 20px 96px 0 96px;
+    z-index: -1;
+    position: absolute;
+}
+
+#triangle-haut-p1 {
+    z-index: -3;
+    position: absolute;
+    left: 40px;
+    top: 135px;
+}
+
+#triangle-bas-p1 {
+    z-index: -3;
+    position: absolute;
+    left: 40px;
+    top: 320px;
+}
+
+.image-série > figure > video {
+    margin-top: 100px;
 }
 
 .image-série .temps-lecture {
-    padding-left: 190px;
+    padding-left: 175px;
     padding-right: 40px;
+    z-index: 1;
+    position: absolute;
+    top: 135px;
 }
 
 .image-série figure {
-    padding : 5px 63px 5px 64px;
+    padding : 5px 0 0 55px;
     margin: 0;
+}
+
+.image-série figcaption {
+    padding: 30px 130px 0 0;
 }
 
 .center {

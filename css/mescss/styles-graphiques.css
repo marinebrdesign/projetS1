@@ -1,3 +1,6 @@
+/*accueil*/
+
+/*présentation*/
 #rectangle-orange {
     width:181px;
     height:165px;
@@ -16,6 +19,7 @@
     top:623px;
 }
 
+ /*tweet 1*/
 #rectangle-tweet1 {
     width:305px;
     height:96px;
@@ -25,6 +29,7 @@
     top:1200px;
 }
 
+/*tweet 2*/
 #triangle-haut-tweet2 {
     display : inline-block;
     height : 0;
@@ -50,6 +55,7 @@
     top:1350px;
 }
 
+/*tweet 3*/
 #rectangle-tweet3 {
     width:295px;
     height:430px;
@@ -75,4 +81,32 @@
     position: absolute;
     left: 30px;
     top: 1900px;
+}
+
+/*article1*/
+#rectangle-h2-p1 {
+    width:201px;
+    height:54px;
+    background:#FFFFFF;
+    position: absolute;
+    left: 87px;
+    top:86px;
+    z-index: -2;
+    border: solid 1px #250B55;
+}
+
+#triangle-haut-p1 {
+    display : inline-block;
+    height : 0;
+    width : 0;
+    border-top : 214px solid #D63158;
+    border-left : 285px solid transparent;
+}
+
+#triangle-bas-p1 {
+    display : inline-block;
+    height : 0;
+    width : 0;
+    border-right : 285px solid transparent;
+    border-bottom : 214px solid #513C77;
 }
