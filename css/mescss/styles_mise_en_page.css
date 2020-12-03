@@ -223,11 +223,21 @@ footer {
 
 .galerie h2 {
     margin: 0;
-    padding: 32px 73px 14px 73px;
+    padding: 32px 60px 14px 50px;
+    text-align: center;
 }
 
 .galerie figure {
     margin: 14px 0 47px 25px;
+}
+
+.galerie figcaption {
+    padding-left: 65px;
+}
+
+.galerie figcaption:last-of-type {
+    padding: 0 90px 0 65px;
+    text-align: center;
 }
 
 li {

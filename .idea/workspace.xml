@@ -19,8 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="styles graphiques et mise en page de l'image de la page article girlboss-et-la-pollution-numerique">
+    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="dégradé linéaire">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/girlboss-et-la-pollution-numerique.html" beforeDir="false" afterPath="$PROJECT_DIR$/girlboss-et-la-pollution-numerique.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +108,7 @@
       <workItem from="1606917485880" duration="27000" />
       <workItem from="1606923014879" duration="3963000" />
       <workItem from="1606932774057" duration="14051000" />
-      <workItem from="1607011707317" duration="8357000" />
+      <workItem from="1607011707317" duration="10902000" />
     </task>
     <task id="LOCAL-00001" summary="html de la page d'accueil">
       <created>1605371663945</created>
@@ -409,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607019999105</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="réalisation du rectangle &quot;nastygal&quot;">
+      <created>1607020306230</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1607020306230</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -428,8 +437,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="mise en page de la page d'accueil" />
-    <MESSAGE value="commencement de la mise en page des parges articles" />
     <MESSAGE value="correction des margin de la page d'accueil" />
     <MESSAGE value="image de la page d'acccueil en plein écran" />
     <MESSAGE value="fin de la mise en page del'article 1 pour le moment" />
@@ -453,7 +460,9 @@
     <MESSAGE value="styles graphiques et mise en page des tweets 2 et 3" />
     <MESSAGE value="correction du menu des autres pages" />
     <MESSAGE value="styles graphiques et mise en page de l'image de la page article girlboss-et-la-pollution-numerique" />
-    <option name="LAST_COMMIT_MESSAGE" value="styles graphiques et mise en page de l'image de la page article girlboss-et-la-pollution-numerique" />
+    <MESSAGE value="réalisation du rectangle &quot;nastygal&quot;" />
+    <MESSAGE value="dégradé linéaire" />
+    <option name="LAST_COMMIT_MESSAGE" value="dégradé linéaire" />
   </component>
   <component name="WindowStateProjectService">
     <state x="241" y="187" key="FileChooserDialogImpl" timestamp="1606917510601">

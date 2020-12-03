@@ -120,3 +120,24 @@
     top:1245px;
     z-index: -1;
 }
+
+#rectangle-h2-galerie {
+    width:232px;
+    height:76px;
+    background:#FFFFFF;
+    position: absolute;
+    left: 65px;
+    top:2390px;
+    z-index: -2;
+    border: solid 1px #250B55;
+}
+
+.degrade-lineaire {
+    width: 375px;
+    height: 1289px;
+    background: linear-gradient(#FFFCF1, #FFEAD7, #F8C66A, #FFEAD7, #FFFCF1);
+    z-index: -3;
+    position: absolute;
+    top: 2380px;
+    left: 0;
+}
