@@ -19,10 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="début mise en page de la page contact, plus correction de la couleur de quelques éléments">
+    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="style graphique et positionnement du tweet 1 et correction des typographies">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +53,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Sujet-TP-mobile" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -99,6 +100,15 @@
       <workItem from="1606656591894" duration="8000" />
       <workItem from="1606673719503" duration="3659000" />
       <workItem from="1606731240583" duration="3215000" />
+      <workItem from="1606740204955" duration="1140000" />
+      <workItem from="1606741356008" duration="5088000" />
+      <workItem from="1606772693482" duration="28000" />
+      <workItem from="1606855506491" duration="4327000" />
+      <workItem from="1606901163591" duration="6021000" />
+      <workItem from="1606917485880" duration="27000" />
+      <workItem from="1606923014879" duration="3963000" />
+      <workItem from="1606932774057" duration="14051000" />
+      <workItem from="1607011707317" duration="2580000" />
     </task>
     <task id="LOCAL-00001" summary="html de la page d'accueil">
       <created>1605371663945</created>
@@ -296,7 +306,91 @@
       <option name="project" value="LOCAL" />
       <updated>1606733002482</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="corrrection index.html">
+      <created>1606740396796</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1606740396796</updated>
+    </task>
+    <task id="LOCAL-00030" summary="correction html de la page article 1">
+      <created>1606740572956</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1606740572956</updated>
+    </task>
+    <task id="LOCAL-00031" summary="correction html de la page article 2">
+      <created>1606740752055</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1606740752055</updated>
+    </task>
+    <task id="LOCAL-00032" summary="fin de la mise en page de la page contact pour le moment">
+      <created>1606745249798</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1606745249798</updated>
+    </task>
+    <task id="LOCAL-00033" summary="correction du html de la nav + placement des h1 des artciles et du menu">
+      <created>1606857381270</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1606857381270</updated>
+    </task>
+    <task id="LOCAL-00034" summary="correction du placement de span">
+      <created>1606857730148</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1606857730148</updated>
+    </task>
+    <task id="LOCAL-00035" summary="réalisation des triangles du menu">
+      <created>1606902593083</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1606902593083</updated>
+    </task>
+    <task id="LOCAL-00036" summary="correction de la taille des a du menu">
+      <created>1606902680333</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1606902680333</updated>
+    </task>
+    <task id="LOCAL-00037" summary="pause dans le création du rectangle orange dans la plage index">
+      <created>1606906577784</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1606906577784</updated>
+    </task>
+    <task id="LOCAL-00038" summary="création des rectangles de la partie &quot;présentation&quot;">
+      <created>1606923981118</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1606923981118</updated>
+    </task>
+    <task id="LOCAL-00039" summary="positionnement de la source du tweet 1">
+      <created>1606928043665</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1606928043665</updated>
+    </task>
+    <task id="LOCAL-00040" summary="style graphique et positionnement du tweet 1 et correction des typographies">
+      <created>1606934229279</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1606934229279</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,18 +409,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="correction des images + ajout de la vidéo + ajout du css &quot;menu&quot;" />
-    <MESSAGE value="icône menu" />
-    <MESSAGE value="création du menu" />
-    <MESSAGE value="correction code html et ajout de la couleur du fond" />
-    <MESSAGE value="correction html titre &quot;polluting Girl&quot;" />
-    <MESSAGE value="ajout des div &quot;source&quot; et continuation des typographies et couleur" />
-    <MESSAGE value="continuation de la typographie et couleur" />
-    <MESSAGE value="continuation de la typographie et couleur (titres, images, temps de lecture)" />
-    <MESSAGE value="bientôt fini la typographie et couleurs, commencent des styles graphiques" />
-    <MESSAGE value="correction du code html avec figcaption" />
-    <MESSAGE value="correction de l'icône menu" />
-    <MESSAGE value="margin du span" />
     <MESSAGE value="commencement de la mise en page des tweets" />
     <MESSAGE value="fin de la mise en page des tweets pour le moment" />
     <MESSAGE value="mise en page de la p" />
@@ -340,13 +422,25 @@
     <MESSAGE value="fin de la mise en page article 3 pour le moment" />
     <MESSAGE value="fin de la mise en page article 4 pour le moment" />
     <MESSAGE value="début mise en page de la page contact, plus correction de la couleur de quelques éléments" />
-    <option name="LAST_COMMIT_MESSAGE" value="début mise en page de la page contact, plus correction de la couleur de quelques éléments" />
+    <MESSAGE value="corrrection index.html" />
+    <MESSAGE value="correction html de la page article 1" />
+    <MESSAGE value="correction html de la page article 2" />
+    <MESSAGE value="fin de la mise en page de la page contact pour le moment" />
+    <MESSAGE value="correction du html de la nav + placement des h1 des artciles et du menu" />
+    <MESSAGE value="correction du placement de span" />
+    <MESSAGE value="réalisation des triangles du menu" />
+    <MESSAGE value="correction de la taille des a du menu" />
+    <MESSAGE value="pause dans le création du rectangle orange dans la plage index" />
+    <MESSAGE value="création des rectangles de la partie &quot;présentation&quot;" />
+    <MESSAGE value="positionnement de la source du tweet 1" />
+    <MESSAGE value="style graphique et positionnement du tweet 1 et correction des typographies" />
+    <option name="LAST_COMMIT_MESSAGE" value="style graphique et positionnement du tweet 1 et correction des typographies" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="241" y="187" key="FileChooserDialogImpl" timestamp="1606731864615">
+    <state x="241" y="187" key="FileChooserDialogImpl" timestamp="1606917510601">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="241" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1606731864615" />
+    <state x="241" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1606917510601" />
     <state width="560" height="446" key="SwitcherDM" timestamp="1606605467569">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -355,6 +449,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="295" y="349" key="VCS.ChangelistChooser/0.0.1536.864@0.0.1536.864" timestamp="1606299830535" />
+    <state x="346" y="163" key="Vcs.Push.Dialog.v2" timestamp="1606741473451">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="346" y="163" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1606741473451" />
     <state x="809" y="198" width="672" height="677" key="run.anything.popup" timestamp="1605535752639">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

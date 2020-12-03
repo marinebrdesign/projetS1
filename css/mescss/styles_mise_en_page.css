@@ -23,7 +23,6 @@ span {
     margin: 0;
 }
 
-
 .presentation-site p {
     padding-left:  31px;
     padding-right: 31px;
@@ -46,12 +45,8 @@ span {
     left: 220px;
     top: 800px;
     right: 30px;
+    padding: 0 10px 0 10px;
 }
-
-.tweet1 > figure > figcaption > p {
-   padding: 10px 10px 0 10px;
-}
-
 
 .tweet1 p { /* a revoir*/
     text-align: center;
@@ -63,25 +58,88 @@ span {
 }
 
 .tweet2 figure {
-    padding-left: 67px;
+    padding-left: 60px;
     padding-top: 78px;
-    margin: 0;
+    margin:90px 0 0 0;
+}
+
+#triangle-haut-tweet2 {
+    z-index: -1;
+    position: absolute;
+    left: 30px;
+    top: 1350px;
+}
+
+#triangle-bas-tweet2 {
+    z-index: -1;
+    position: absolute;
+    left: 200px;
+    top: 1610px;
+}
+
+.tweet2 figcaption {
+    text-align: center;
+    z-index: 1;
+    position: absolute;
+    top: 1710px;
+    right: 140px;
+    padding: 0 10px 0 10px;
+}
+
+#rectangle-tweet2 {
+    z-index: -2;
+    position: absolute;
+    left: 30px;
+    top: 1350px;
 }
 
 .tweet2 p { /* a revoir*/
-    padding: 10px 51px 0 52px;
+    padding: 35px 51px 0 52px;
+    margin-top: 0;
     text-align: center;
 }
 
 .tweet3 figure {
-    padding-left: 92px;
-    padding-top: 87px;
+    padding-left: 80px;
+    padding-top:70px;
     margin: 0;
 }
 
-.tweet3 p { /* a revoir*/
-    padding: 10px 56px 0 57px;
+#rectangle-tweet3 {
+    z-index: -3;
+    position: absolute;
+    left: 30px;
+    top: 1830px;
+}
+
+#rectangle-bas-tweet3 {
+    z-index: -2;
+    position: absolute;
+    left: 30px;
+    top: 1985px;
+}
+
+#rectangle-haut-tweet3 {
+    z-index: -2;
+    position: absolute;
+    left: 195px;
+    top: 1830px;
+}
+
+.tweet3 figcaption {
     text-align: center;
+    z-index: 1;
+    position: absolute;
+    top: 2160px;
+    left: 200px;
+    right: 47px;
+    padding: 0 10px 0 10px;
+}
+
+.tweet3 p { /* a revoir*/
+    padding: 35px 75px 0 55px;
+    text-align: center;
+    margin-top: 20px;
 }
 
 footer {
@@ -198,7 +256,6 @@ li {
     margin: 0;
 }
 
-
 #emballages figure { /*a revoir*/
     padding: 0 0 15px 125px;
     margin: 0;
@@ -273,3 +330,4 @@ li {
     padding: 0 114px 5px 114px;
     margin: 0;
 }
+
