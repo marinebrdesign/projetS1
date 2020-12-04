@@ -217,8 +217,18 @@ footer {
 }
 
 #pollution figure {
-    padding:48px 38px 79px 38px;
+    padding:48px 0 79px 10px;
     margin: 0;
+}
+
+#pollution figcaption {
+    text-align: center;
+    z-index: 1;
+    position: absolute;
+    top: 2120px;
+    left: 35px;
+    right: 68px;
+    padding: 49px 70px 0 79px;
 }
 
 .galerie h2 {

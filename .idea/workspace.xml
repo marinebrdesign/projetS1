@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="dégradé linéaire">
+    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="rectangle blanc du h2 de la galerie et dégradé linéaire">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" afterDir="false" />
@@ -108,7 +108,11 @@
       <workItem from="1606917485880" duration="27000" />
       <workItem from="1606923014879" duration="3963000" />
       <workItem from="1606932774057" duration="14051000" />
-      <workItem from="1607011707317" duration="10902000" />
+      <workItem from="1607011707317" duration="12520000" />
+      <workItem from="1607030699320" duration="1744000" />
+      <workItem from="1607075995385" duration="15000" />
+      <workItem from="1607076129124" duration="2788000" />
+      <workItem from="1607118635901" duration="1503000" />
     </task>
     <task id="LOCAL-00001" summary="html de la page d'accueil">
       <created>1605371663945</created>
@@ -418,7 +422,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607020306230</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="rectangle blanc du h2 de la galerie et dégradé linéaire">
+      <created>1607029085424</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1607029085424</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -437,7 +448,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="correction des margin de la page d'accueil" />
     <MESSAGE value="image de la page d'acccueil en plein écran" />
     <MESSAGE value="fin de la mise en page del'article 1 pour le moment" />
     <MESSAGE value="fin de la mise en page de l'article 1 pour le moment" />
@@ -462,13 +472,14 @@
     <MESSAGE value="styles graphiques et mise en page de l'image de la page article girlboss-et-la-pollution-numerique" />
     <MESSAGE value="réalisation du rectangle &quot;nastygal&quot;" />
     <MESSAGE value="dégradé linéaire" />
-    <option name="LAST_COMMIT_MESSAGE" value="dégradé linéaire" />
+    <MESSAGE value="rectangle blanc du h2 de la galerie et dégradé linéaire" />
+    <option name="LAST_COMMIT_MESSAGE" value="rectangle blanc du h2 de la galerie et dégradé linéaire" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="241" y="187" key="FileChooserDialogImpl" timestamp="1606917510601">
+    <state x="241" y="187" key="FileChooserDialogImpl" timestamp="1607076008570">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="241" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1606917510601" />
+    <state x="241" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1607076008570" />
     <state width="560" height="446" key="SwitcherDM" timestamp="1606605467569">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

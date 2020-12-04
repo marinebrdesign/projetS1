@@ -121,13 +121,31 @@
     z-index: -1;
 }
 
+.cercle-pollution {
+    height: 333px;
+    width: 165px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 1830px;
+    left: 170px;
+    z-index: -1;
+}
+.demi-cercle {
+    width: 333px;
+    height: 333px;
+    border-radius: 0 200px 200px 0;
+    background: #FFEAD7;
+}
+
 #rectangle-h2-galerie {
     width:232px;
     height:76px;
     background:#FFFFFF;
     position: absolute;
     left: 65px;
-    top:2390px;
+    top:2380px;
     z-index: -2;
     border: solid 1px #250B55;
 }
@@ -141,3 +159,4 @@
     top: 2380px;
     left: 0;
 }
+
