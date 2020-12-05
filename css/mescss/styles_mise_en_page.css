@@ -292,6 +292,11 @@ li {
     padding-left: 40px;
 }
 
+.micro-trottoir h3 {
+    text-align: center;
+    margin-top : 50px
+}
+
 /*page article 3*/
 .image-article3 h2 {
     text-align: left;

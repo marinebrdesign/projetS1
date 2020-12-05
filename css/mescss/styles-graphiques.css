@@ -191,4 +191,14 @@
     z-index: -3;
 }
 
+#rectangle-h2-micro-trottoir {
+    width:137px;
+    height:30px;
+    background:#FFFFFF;
+    position: absolute;
+    left:119px;
+    top:2270px;
+    z-index: -1;
+    border: solid 1px #250B55;
+}
 
