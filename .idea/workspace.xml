@@ -19,11 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="rectangle blanc du h2 de la galerie et dégradé linéaire">
+    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="demi-cercle de l'image de l'article pollution">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/girlboss-et-la-pollution-numerique.html" beforeDir="false" afterPath="$PROJECT_DIR$/girlboss-et-la-pollution-numerique.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/typographie-couleur.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typographie-couleur.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/la-pollution-numéerique-et-le-E-commerce.html" beforeDir="false" afterPath="$PROJECT_DIR$/la-pollution-numéerique-et-le-E-commerce.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TP-mobile-Rallu" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -112,7 +113,8 @@
       <workItem from="1607030699320" duration="1744000" />
       <workItem from="1607075995385" duration="15000" />
       <workItem from="1607076129124" duration="2788000" />
-      <workItem from="1607118635901" duration="1503000" />
+      <workItem from="1607118635901" duration="5936000" />
+      <workItem from="1607159970638" duration="324000" />
     </task>
     <task id="LOCAL-00001" summary="html de la page d'accueil">
       <created>1605371663945</created>
@@ -429,7 +431,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607029085424</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="demi-cercle de l'image de l'article pollution">
+      <created>1607120351510</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1607120351510</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -448,7 +457,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="image de la page d'acccueil en plein écran" />
     <MESSAGE value="fin de la mise en page del'article 1 pour le moment" />
     <MESSAGE value="fin de la mise en page de l'article 1 pour le moment" />
     <MESSAGE value="fin de la page article 2 pour le moment" />
@@ -473,28 +481,7 @@
     <MESSAGE value="réalisation du rectangle &quot;nastygal&quot;" />
     <MESSAGE value="dégradé linéaire" />
     <MESSAGE value="rectangle blanc du h2 de la galerie et dégradé linéaire" />
-    <option name="LAST_COMMIT_MESSAGE" value="rectangle blanc du h2 de la galerie et dégradé linéaire" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="241" y="187" key="FileChooserDialogImpl" timestamp="1607076008570">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="241" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1607076008570" />
-    <state width="560" height="446" key="SwitcherDM" timestamp="1606605467569">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="560" height="446" key="SwitcherDM/0.0.1536.864@0.0.1536.864" timestamp="1606605467569" />
-    <state x="295" y="349" key="VCS.ChangelistChooser" timestamp="1606299830535">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="295" y="349" key="VCS.ChangelistChooser/0.0.1536.864@0.0.1536.864" timestamp="1606299830535" />
-    <state x="346" y="163" key="Vcs.Push.Dialog.v2" timestamp="1607014500912">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="346" y="163" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1607014500912" />
-    <state x="809" y="198" width="672" height="677" key="run.anything.popup" timestamp="1605535752639">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="809" y="198" width="672" height="677" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1605535752639" />
+    <MESSAGE value="demi-cercle de l'image de l'article pollution" />
+    <option name="LAST_COMMIT_MESSAGE" value="demi-cercle de l'image de l'article pollution" />
   </component>
 </project>

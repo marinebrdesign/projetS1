@@ -266,14 +266,30 @@ li {
     padding-right: 55px;
 }
 
+.image-article2 > .temps-lecture > p {
+    padding-left: 15px;
+    margin-bottom: 0;
+}
+
 .image-article2 figure {
     margin: 0;
-    padding: 20px 60px 0 50px;
+    padding: 3px 60px 0 55px;
+}
+
+.image-article2 figcaption {
+    text-align: center;
+    padding-right: 170px;
 }
 
 #pollution-numerique figure { /*a revoir*/
     padding:40px 0 10px 90px;
     margin: 0;
+}
+
+#pollution-numerique figcaption {
+    text-align: center;
+    padding-right: 65px;
+    padding-left: 40px;
 }
 
 /*page article 3*/
@@ -377,4 +393,5 @@ li {
     padding: 0 114px 5px 114px;
     margin: 0;
 }
+
 

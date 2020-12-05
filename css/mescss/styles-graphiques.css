@@ -160,3 +160,35 @@
     left: 0;
 }
 
+#rectangle-h2-p2 {
+    width:272px;
+    height:76px;
+    background:#FFFFFF;
+    position: absolute;
+    left: 50px;
+    top:86px;
+    z-index: -2;
+    border: solid 1px #250B55;
+}
+
+#rectangle-violet {
+    width:273px;
+    height:430px;
+    background:#ECB9DD;
+    position: absolute;
+    left: 78px;
+    top:159px;
+    z-index: -3;
+}
+
+#rectangle-noir {
+    width:181px;
+    height:265px;
+    background:#42404D;
+    position: absolute;
+    left: 68px;
+    top:820px;
+    z-index: -3;
+}
+
+
