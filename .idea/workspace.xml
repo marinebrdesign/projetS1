@@ -19,12 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="cercle de l'article emballages">
+    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="rectangle du début de la page de l'article scientifique">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/typographie-couleur.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typographie-couleur.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/le-commerce-par-internet-est-un-desastre-ecologique.html" beforeDir="false" afterPath="$PROJECT_DIR$/le-commerce-par-internet-est-un-desastre-ecologique.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,14 +115,8 @@
       <workItem from="1607076129124" duration="2788000" />
       <workItem from="1607118635901" duration="5936000" />
       <workItem from="1607159970638" duration="4288000" />
-      <workItem from="1607183806655" duration="2814000" />
-    </task>
-    <task id="LOCAL-00004" summary="html page contact et corrextion html des autres pages">
-      <created>1605533641701</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1605533641701</updated>
+      <workItem from="1607183806655" duration="4763000" />
+      <workItem from="1607200355222" duration="4446000" />
     </task>
     <task id="LOCAL-00005" summary="correction des images + ajout de la vidéo + ajout du css &quot;menu&quot;">
       <created>1605537084073</created>
@@ -460,7 +454,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607184823097</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="rectangle du début de la page de l'article scientifique">
+      <created>1607186878024</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1607186878025</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -479,7 +480,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="corrrection index.html" />
     <MESSAGE value="correction html de la page article 1" />
     <MESSAGE value="correction html de la page article 2" />
     <MESSAGE value="fin de la mise en page de la page contact pour le moment" />
@@ -504,6 +504,7 @@
     <MESSAGE value="cercle de l'article livraisons" />
     <MESSAGE value="cercle de l'article internet" />
     <MESSAGE value="cercle de l'article emballages" />
-    <option name="LAST_COMMIT_MESSAGE" value="cercle de l'article emballages" />
+    <MESSAGE value="rectangle du début de la page de l'article scientifique" />
+    <option name="LAST_COMMIT_MESSAGE" value="rectangle du début de la page de l'article scientifique" />
   </component>
 </project>

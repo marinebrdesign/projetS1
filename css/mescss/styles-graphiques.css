@@ -198,7 +198,7 @@
     background:#FFFFFF;
     position: absolute;
     left:119px;
-    top:2270px;
+    top:3270px;
     z-index: -1;
     border: solid 1px #250B55;
 }
@@ -295,6 +295,7 @@
     top: 2435px;
     left: 57px;
 }
+/*page article 4*/
 
 #rectangle-h2-p4 {
     width:277px;
@@ -305,4 +306,80 @@
     top:86px;
     z-index: -1;
     border: solid 1px #250B55;
+}
+
+/*page contact*/
+
+#rectangle-h2-p5 {
+    width:83px;
+    height:28px;
+    background:#FFFFFF;
+    position: absolute;
+    left: 145px;
+    top: 87px;
+    z-index: -1;
+    border: solid 1px #250B55;
+}
+
+#rectangle-contact {
+     width:198px;
+     height:238px;
+     background:#FFEAD7;
+     position: absolute;
+     left: 177px;
+     top:102px;
+     z-index: -2;
+ }
+
+
+.prenom {
+    width:303px;
+    height:30px;
+    background:#FFFFFF;
+    position: absolute;
+    left: 31px;
+    top:690px;
+    border: solid 1px #250B55;
+}
+
+.nom {
+    width:303px;
+    height:30px;
+    background:#FFFFFF;
+    position: absolute;
+    left: 31px;
+    top:755px;
+    border: solid 1px #250B55;
+}
+
+.email {
+    width:303px;
+    height:30px;
+    background:#FFFFFF;
+    position: absolute;
+    left: 31px;
+    top:825px;
+    border: solid 1px #250B55;
+}
+
+.message {
+    width:303px;
+    height:90px;
+    background:#FFFFFF;
+    position: absolute;
+    left: 31px;
+    top:890px;
+    border: solid 1px #250B55;
+}
+
+.envoyer {
+    width:90px;
+    height:18px;
+    background:#FFFFFF;
+    position: absolute;
+    left: 245px;
+    top:986px;
+    border: solid 1px #250B55;
+    margin-top:15px;
+    z-index: -1;
 }

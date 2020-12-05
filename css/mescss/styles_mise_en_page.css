@@ -374,21 +374,39 @@ li {
 }
 
 .image-article4 figcaption {
-    scroll-padding-right: 150px;
+    padding-right: 150px;
 }
 
 /* page contact*/
 
 .image-contact h2 {
     text-align: center;
-    padding-top: 42px;
+    padding-top: 35px;
     margin: 0;
+}
+
+ .image-contact figcaption{
+    padding-right: 170px;
 }
 
 /*#a-propos p : aller à la ligne ?*/
 
 #me-contacter h4 {
     text-align: center;
+}
+
+#me-contacter {
+    margin-bottom: 15px;
+}
+
+#me-contacter > p {
+    margin-bottom: 50px;
+}
+
+#me-contacter > p:nth-of-type(5) {
+    margin-top: 110px;
+    padding-left: 215px;
+    margin-bottom: 0;
 }
 
 #autres_projets > .projets-gauche,#autres_projets > .projets-droite {
