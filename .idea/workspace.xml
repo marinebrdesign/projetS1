@@ -19,11 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="rectangle blanc du h3 du micro-trottoir">
+    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="création du cercle et mise en page de l'illustration du début de la page &quot;quelles solutions pour réduire cette pollution&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/typographie-couleur.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typographie-couleur.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/quelles-solutions-pour-reduire-cette-pollution.html" beforeDir="false" afterPath="$PROJECT_DIR$/quelles-solutions-pour-reduire-cette-pollution.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +53,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TP-mobile-Rallu" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Sujet-TP-mobile" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -114,7 +113,7 @@
       <workItem from="1607075995385" duration="15000" />
       <workItem from="1607076129124" duration="2788000" />
       <workItem from="1607118635901" duration="5936000" />
-      <workItem from="1607159970638" duration="2372000" />
+      <workItem from="1607159970638" duration="3986000" />
     </task>
     <task id="LOCAL-00001" summary="html de la page d'accueil">
       <created>1605371663945</created>
@@ -452,7 +451,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607161088099</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="création du cercle et mise en page de l'illustration du début de la page &quot;quelles solutions pour réduire cette pollution&quot;">
+      <created>1607162424739</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1607162424739</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -471,7 +477,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fin de la page article 2 pour le moment" />
     <MESSAGE value="fin de la mise en page article 3 pour le moment" />
     <MESSAGE value="fin de la mise en page article 4 pour le moment" />
     <MESSAGE value="début mise en page de la page contact, plus correction de la couleur de quelques éléments" />
@@ -496,6 +501,7 @@
     <MESSAGE value="demi-cercle de l'image de l'article pollution" />
     <MESSAGE value="rectangle violet du début de la page la pollution numérique et le E-commerce et rectangle noir de l'article pollution" />
     <MESSAGE value="rectangle blanc du h3 du micro-trottoir" />
-    <option name="LAST_COMMIT_MESSAGE" value="rectangle blanc du h3 du micro-trottoir" />
+    <MESSAGE value="création du cercle et mise en page de l'illustration du début de la page &quot;quelles solutions pour réduire cette pollution&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="création du cercle et mise en page de l'illustration du début de la page &quot;quelles solutions pour réduire cette pollution&quot;" />
   </component>
 </project>

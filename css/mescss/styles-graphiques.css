@@ -235,3 +235,23 @@
     -webkit-border-radius : 75px;
     border-radius : 150px;
 }
+
+.image-livraisons {
+    width : 186px;
+    height : 186px;
+    border: none;
+    -moz-border-radius : 75px;
+    -webkit-border-radius : 75px;
+    border-radius : 150px;
+}
+
+#cercle-livraisons {
+    width: 188px;
+    height: 186px;
+    border-radius: 100%;
+    background: #00DDC1;
+    z-index: -1;
+    position: absolute;
+    top: 613px;
+    left: 51px;
+}
