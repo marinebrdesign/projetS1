@@ -272,6 +272,26 @@
     background: #00DDC1;
     z-index: -1;
     position: absolute;
-    top: 1500cpx;
+    top: 1500px;
     left: 130px;
+}
+
+.image-emballages {
+    width : 186px;
+    height : 186px;
+    border: none;
+    -moz-border-radius : 75px;
+    -webkit-border-radius : 75px;
+    border-radius : 150px;
+}
+
+#cercle-emballages {
+    width: 188px;
+    height: 186px;
+    border-radius: 100%;
+    background: #EC6787;
+    z-index: -1;
+    position: absolute;
+    top: 2435px;
+    left: 57px;
 }

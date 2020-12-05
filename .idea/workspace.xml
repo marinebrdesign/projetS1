@@ -19,11 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="cercle de l'article livraisons">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="cercle de l'article internet">
       <change beforePath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quelles-solutions-pour-reduire-cette-pollution.html" beforeDir="false" afterPath="$PROJECT_DIR$/quelles-solutions-pour-reduire-cette-pollution.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,14 +112,7 @@
       <workItem from="1607076129124" duration="2788000" />
       <workItem from="1607118635901" duration="5936000" />
       <workItem from="1607159970638" duration="4288000" />
-      <workItem from="1607183806655" duration="690000" />
-    </task>
-    <task id="LOCAL-00002" summary="html article 1,2,3">
-      <created>1605446108150</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1605446108150</updated>
+      <workItem from="1607183806655" duration="997000" />
     </task>
     <task id="LOCAL-00003" summary="html article 4">
       <created>1605459139758</created>
@@ -459,7 +450,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607173626823</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="cercle de l'article internet">
+      <created>1607184508859</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1607184508859</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -478,7 +476,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fin de la mise en page article 4 pour le moment" />
     <MESSAGE value="début mise en page de la page contact, plus correction de la couleur de quelques éléments" />
     <MESSAGE value="corrrection index.html" />
     <MESSAGE value="correction html de la page article 1" />
@@ -503,6 +500,7 @@
     <MESSAGE value="rectangle blanc du h3 du micro-trottoir" />
     <MESSAGE value="création du cercle et mise en page de l'illustration du début de la page &quot;quelles solutions pour réduire cette pollution&quot;" />
     <MESSAGE value="cercle de l'article livraisons" />
-    <option name="LAST_COMMIT_MESSAGE" value="cercle de l'article livraisons" />
+    <MESSAGE value="cercle de l'article internet" />
+    <option name="LAST_COMMIT_MESSAGE" value="cercle de l'article internet" />
   </component>
 </project>

@@ -340,10 +340,15 @@ li {
 }
 
 #emballages figure { /*a revoir*/
-    padding: 0 0 15px 125px;
+    padding-right:100px;
     margin: 0;
 }
 
+
+#emballages figcaption {
+    text-align: center;
+    padding: 0 100px 0 70px;
+}
 /*page artcile 4*/
 
 .image-article4 h2 {
