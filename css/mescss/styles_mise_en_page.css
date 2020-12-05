@@ -330,8 +330,13 @@ li {
 
 
 #internet figure { /*a revoir*/
-    padding: 0 0 15px 40px;
+    padding: 0 0 15px 30px;
     margin: 0;
+}
+
+#internet figcaption {
+    text-align: center;
+    padding: 0 100px 0 70px;
 }
 
 #emballages figure { /*a revoir*/
