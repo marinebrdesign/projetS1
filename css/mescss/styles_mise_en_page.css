@@ -344,7 +344,6 @@ li {
     margin: 0;
 }
 
-
 #emballages figcaption {
     text-align: center;
     padding: 0 100px 0 70px;
@@ -353,18 +352,29 @@ li {
 
 .image-article4 h2 {
     text-align: left;
-    padding : 42px 47px 0 60px;
+    padding : 35px 47px 0 50px;
     margin: 0;
 }
 
 .image-article4 .temps-lecture {
-    padding-left: 187px;
-    padding-right: 40px;
+    padding : 10px 40px 0 175px;
+    z-index: 1;
+    position: absolute;
+    top: 135px;
+}
+
+.image-article4 > .temps-lecture > p {
+    padding-left: 15px;
+    margin-bottom: 0;
 }
 
 .image-article4 figure {
     margin: 0;
-    padding: 0 38px 10px 67px;
+    padding: 10px 38px 0 67px;
+}
+
+.image-article4 figcaption {
+    scroll-padding-right: 150px;
 }
 
 /* page contact*/

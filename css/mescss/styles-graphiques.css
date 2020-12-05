@@ -295,3 +295,14 @@
     top: 2435px;
     left: 57px;
 }
+
+#rectangle-h2-p4 {
+    width:277px;
+    height:233px;
+    background:#FFFFFF;
+    position: absolute;
+    left: 41px;
+    top:86px;
+    z-index: -1;
+    border: solid 1px #250B55;
+}

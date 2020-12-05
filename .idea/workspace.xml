@@ -19,9 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="cercle de l'article internet">
+    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="cercle de l'article emballages">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/typographie-couleur.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typographie-couleur.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le-commerce-par-internet-est-un-desastre-ecologique.html" beforeDir="false" afterPath="$PROJECT_DIR$/le-commerce-par-internet-est-un-desastre-ecologique.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,14 +115,7 @@
       <workItem from="1607076129124" duration="2788000" />
       <workItem from="1607118635901" duration="5936000" />
       <workItem from="1607159970638" duration="4288000" />
-      <workItem from="1607183806655" duration="997000" />
-    </task>
-    <task id="LOCAL-00003" summary="html article 4">
-      <created>1605459139758</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1605459139758</updated>
+      <workItem from="1607183806655" duration="2814000" />
     </task>
     <task id="LOCAL-00004" summary="html page contact et corrextion html des autres pages">
       <created>1605533641701</created>
@@ -457,7 +453,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607184508859</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="cercle de l'article emballages">
+      <created>1607184823097</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1607184823097</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -476,7 +479,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="début mise en page de la page contact, plus correction de la couleur de quelques éléments" />
     <MESSAGE value="corrrection index.html" />
     <MESSAGE value="correction html de la page article 1" />
     <MESSAGE value="correction html de la page article 2" />
@@ -501,6 +503,7 @@
     <MESSAGE value="création du cercle et mise en page de l'illustration du début de la page &quot;quelles solutions pour réduire cette pollution&quot;" />
     <MESSAGE value="cercle de l'article livraisons" />
     <MESSAGE value="cercle de l'article internet" />
-    <option name="LAST_COMMIT_MESSAGE" value="cercle de l'article internet" />
+    <MESSAGE value="cercle de l'article emballages" />
+    <option name="LAST_COMMIT_MESSAGE" value="cercle de l'article emballages" />
   </component>
 </project>
