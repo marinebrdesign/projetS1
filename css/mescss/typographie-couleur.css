@@ -130,7 +130,7 @@ h4 {
     font-size: 13px;
 }
 
-.image-article2 > .temps-lecture > p/*, .image-article3 > .temps-lecture > p, .image-article4 > .temps-lecture >p */{ /* revoir article 4*/
+.image-article2 > .temps-lecture > p, .image-article3 > .temps-lecture > p/*, .image-article4 > .temps-lecture >p */{ /* revoir article 4*/
     font-family: Roboto;
     font-size: 11px;
     font-weight: 500;

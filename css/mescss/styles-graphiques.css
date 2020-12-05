@@ -160,6 +160,7 @@
     left: 0;
 }
 
+/*article 2*/
 #rectangle-h2-p2 {
     width:272px;
     height:76px;
@@ -202,3 +203,35 @@
     border: solid 1px #250B55;
 }
 
+/*article 3*/
+
+#rectangle-h2-p3 {
+    width:292px;
+    height:52px;
+    background:#FFFFFF;
+    position: absolute;
+    left: 52px;
+    top:86px;
+    z-index: -1;
+    border: solid 1px #250B55;
+}
+
+#cercle-go-green {
+    width: 268px;
+    height: 275px;
+    border-radius: 100%;
+    background: #FFEAD7;
+    z-index: -2;
+    position: absolute;
+    top: 129px;
+    left: 74px;
+}
+
+.image-ronde {
+    width : 264px;
+    height : 264px;
+    border: none;
+    -moz-border-radius : 75px;
+    -webkit-border-radius : 75px;
+    border-radius : 150px;
+}

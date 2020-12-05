@@ -19,9 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="rectangle violet du début de la page la pollution numérique et le E-commerce et rectangle noir de l'article pollution">
+    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="rectangle blanc du h3 du micro-trottoir">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/la-pollution-numéerique-et-le-E-commerce.html" beforeDir="false" afterPath="$PROJECT_DIR$/la-pollution-numéerique-et-le-E-commerce.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/typographie-couleur.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typographie-couleur.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quelles-solutions-pour-reduire-cette-pollution.html" beforeDir="false" afterPath="$PROJECT_DIR$/quelles-solutions-pour-reduire-cette-pollution.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +114,7 @@
       <workItem from="1607075995385" duration="15000" />
       <workItem from="1607076129124" duration="2788000" />
       <workItem from="1607118635901" duration="5936000" />
-      <workItem from="1607159970638" duration="794000" />
+      <workItem from="1607159970638" duration="2372000" />
     </task>
     <task id="LOCAL-00001" summary="html de la page d'accueil">
       <created>1605371663945</created>
@@ -442,7 +445,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607160669689</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="rectangle blanc du h3 du micro-trottoir">
+      <created>1607161088099</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1607161088099</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -461,7 +471,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fin de la mise en page de l'article 1 pour le moment" />
     <MESSAGE value="fin de la page article 2 pour le moment" />
     <MESSAGE value="fin de la mise en page article 3 pour le moment" />
     <MESSAGE value="fin de la mise en page article 4 pour le moment" />
@@ -486,6 +495,7 @@
     <MESSAGE value="rectangle blanc du h2 de la galerie et dégradé linéaire" />
     <MESSAGE value="demi-cercle de l'image de l'article pollution" />
     <MESSAGE value="rectangle violet du début de la page la pollution numérique et le E-commerce et rectangle noir de l'article pollution" />
-    <option name="LAST_COMMIT_MESSAGE" value="rectangle violet du début de la page la pollution numérique et le E-commerce et rectangle noir de l'article pollution" />
+    <MESSAGE value="rectangle blanc du h3 du micro-trottoir" />
+    <option name="LAST_COMMIT_MESSAGE" value="rectangle blanc du h3 du micro-trottoir" />
   </component>
 </project>
