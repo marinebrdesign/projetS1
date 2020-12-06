@@ -1,3 +1,10 @@
+/*logo*/
+.logo {
+    position: absolute;
+    left: 253px;
+    top: 20px;
+}
+
 /* page d'accueil*/
 .barre-navigation h1 {
     text-align: center;

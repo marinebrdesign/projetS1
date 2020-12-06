@@ -77,6 +77,12 @@
     padding-bottom: 15px;
 }
 
+.logo-menu {
+    position: absolute;
+    left: 200px;
+    top: 0;
+}
+
 .fa-chevron-right {
     position: absolute;
     left: 230px;
