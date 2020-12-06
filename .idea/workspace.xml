@@ -19,9 +19,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="rectangle de l'image de la page contact et formulaire de contact">
+    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="correction mise en page du cercle emballages">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/contact/black-mirror.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/contact/black-mirror.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/contact/blade-runner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/contact/blade-runner.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/contact/code-poursuite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/contact/code-poursuite.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/contact/ghost-in-the-shell.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/contact/ghost-in-the-shell.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/contact/hackers.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/contact/hackers.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/contact/her.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/contact/her.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/contact/how-to-sell-drugs.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/contact/how-to-sell-drugs.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/contact/oeil-du-mal.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/contact/oeil-du-mal.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/contact/searching.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/contact/searching.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/contact/social-network.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/contact/social-network.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/contact/south-park.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/contact/south-park.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +64,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Sujet-TP-mobile" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TP-mobile-Rallu" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -114,14 +127,8 @@
       <workItem from="1607159970638" duration="4288000" />
       <workItem from="1607183806655" duration="4763000" />
       <workItem from="1607200355222" duration="5248000" />
-      <workItem from="1607246187712" duration="300000" />
-    </task>
-    <task id="LOCAL-00006" summary="icône menu">
-      <created>1605798386185</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1605798386185</updated>
+      <workItem from="1607246187712" duration="2256000" />
+      <workItem from="1607259309124" duration="7272000" />
     </task>
     <task id="LOCAL-00007" summary="création du menu">
       <created>1605800402535</created>
@@ -459,7 +466,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607204862039</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="correction mise en page du cercle emballages">
+      <created>1607246720210</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1607246720211</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -478,7 +492,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="correction html de la page article 2" />
     <MESSAGE value="fin de la mise en page de la page contact pour le moment" />
     <MESSAGE value="correction du html de la nav + placement des h1 des artciles et du menu" />
     <MESSAGE value="correction du placement de span" />
@@ -503,6 +516,7 @@
     <MESSAGE value="cercle de l'article emballages" />
     <MESSAGE value="rectangle du début de la page de l'article scientifique" />
     <MESSAGE value="rectangle de l'image de la page contact et formulaire de contact" />
-    <option name="LAST_COMMIT_MESSAGE" value="rectangle de l'image de la page contact et formulaire de contact" />
+    <MESSAGE value="correction mise en page du cercle emballages" />
+    <option name="LAST_COMMIT_MESSAGE" value="correction mise en page du cercle emballages" />
   </component>
 </project>

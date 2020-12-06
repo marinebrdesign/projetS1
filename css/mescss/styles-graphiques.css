@@ -383,3 +383,227 @@
     margin-top:15px;
     z-index: -1;
 }
+
+/*autres projets*/
+
+#rectangle-1 {
+    width:151px;
+    height:40px;
+    background:#FFFFFF;
+    position: absolute;
+    left: 22px;
+    top:1305px;
+    margin-top:15px;
+    z-index: -1;
+    box-shadow: 0 3px 6px #000000;
+}
+
+.image-1 {
+    width : 150px;
+    height : 150px;
+    border: none;
+    -moz-border-radius : 75px;
+    -webkit-border-radius : 75px;
+    border-radius : 50px;
+}
+
+#rectangle-2 {
+    width:151px;
+    height:40px;
+    background:#FFFFFF;
+    position: absolute;
+    left: 22px;
+    top:1495px;
+    margin-top:15px;
+    z-index: -1;
+    box-shadow: 0 3px 6px #000000;
+}
+
+.image-2 {
+    width : 150px;
+    height : 150px;
+    border: none;
+    -moz-border-radius : 75px;
+    -webkit-border-radius : 75px;
+    border-radius : 50px;
+}
+
+#rectangle-3 {
+    width:151px;
+    height:40px;
+    background:#FFFFFF;
+    position: absolute;
+    left: 22px;
+    top:1690px;
+    margin-top:15px;
+    z-index: -1;
+    box-shadow: 0 3px 6px #000000;
+}
+
+.image-3 {
+    width : 150px;
+    height : 150px;
+    border: none;
+    -moz-border-radius : 75px;
+    -webkit-border-radius : 75px;
+    border-radius : 50px;
+}
+
+#rectangle-4 {
+    width:151px;
+    height:40px;
+    background:#FFFFFF;
+    position: absolute;
+    left: 22px;
+    top:1900px;
+    margin-top:15px;
+    z-index: -1;
+    box-shadow: 0 3px 6px #000000;
+}
+
+.image-4 {
+    width : 150px;
+    height : 150px;
+    border: none;
+    -moz-border-radius : 75px;
+    -webkit-border-radius : 75px;
+    border-radius : 50px;
+}
+
+#rectangle-5 {
+    width:151px;
+    height:40px;
+    background:#FFFFFF;
+    position: absolute;
+    left: 22px;
+    top:2110px;
+    margin-top:15px;
+    z-index: -1;
+    box-shadow: 0 3px 6px #000000;
+}
+
+.image-6 {
+    width : 150px;
+    height : 150px;
+    border: none;
+    -moz-border-radius : 75px;
+    -webkit-border-radius : 75px;
+    border-radius : 50px;
+}
+
+#rectangle-6 {
+    width:151px;
+    height:40px;
+    background:#FFFFFF;
+    position: absolute;
+    left: 198px;
+    top:1305px;
+    margin-top:15px;
+    z-index: -1;
+    box-shadow: 0 3px 6px #000000;
+}
+
+.image-7 {
+    width : 150px;
+    height : 150px;
+    border: none;
+    -moz-border-radius : 75px;
+    -webkit-border-radius : 75px;
+    border-radius : 50px;
+}
+
+#rectangle-7 {
+    width:151px;
+    height:40px;
+    background:#FFFFFF;
+    position: absolute;
+    left: 198px;
+    top:1495px;
+    margin-top:15px;
+    z-index: -1;
+    box-shadow: 0 3px 6px #000000;
+}
+
+.image-8 {
+    width : 150px;
+    height : 150px;
+    border: none;
+    -moz-border-radius : 75px;
+    -webkit-border-radius : 75px;
+    border-radius : 50px;
+}
+
+#rectangle-8 {
+    width:151px;
+    height:58px;
+    background:#FFFFFF;
+    position: absolute;
+    left: 198px;
+    top:1690px;
+    margin-top:15px;
+    z-index: -1;
+    box-shadow: 0 3px 6px #000000;
+}
+
+.image-9 {
+    width : 150px;
+    height : 150px;
+    border: none;
+    -moz-border-radius : 75px;
+    -webkit-border-radius : 75px;
+    border-radius : 50px;
+}
+
+#rectangle-9 {
+    width:151px;
+    height:51px;
+    background:#FFFFFF;
+    position: absolute;
+    left: 198px;
+    top:1900px;
+    margin-top:15px;
+    z-index: -1;
+    box-shadow: 0 3px 6px #000000;
+}
+
+.image-10 {
+    width : 150px;
+    height : 150px;
+    border: none;
+    -moz-border-radius : 75px;
+    -webkit-border-radius : 75px;
+    border-radius : 50px;
+}
+
+#rectangle-10 {
+    width:151px;
+    height:40px;
+    background:#FFFFFF;
+    position: absolute;
+    left: 198px;
+    top:2110px;
+    margin-top:15px;
+    z-index: -1;
+    box-shadow: 0 3px 6px #000000;
+}
+
+.image-11 {
+    width : 150px;
+    height : 150px;
+    border: none;
+    -moz-border-radius : 75px;
+    -webkit-border-radius : 75px;
+    border-radius : 50px;
+}
+
+#rectangle-11 {
+    width:150px;
+    height:57px;
+    background:#FFFFFF;
+    position: absolute;
+    left: 113px;
+    top:2310px;
+    margin-top:15px;
+    z-index: -1;
+    box-shadow: 0 3px 6px #000000;
+}
