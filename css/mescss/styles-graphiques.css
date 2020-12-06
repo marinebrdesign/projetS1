@@ -198,7 +198,7 @@
     background:#FFFFFF;
     position: absolute;
     left:119px;
-    top:3270px;
+    top:3450px;
     z-index: -1;
     border: solid 1px #250B55;
 }
@@ -294,6 +294,24 @@
     position: absolute;
     top: 2480px;
     left: 57px;
+}
+
+#aller-plus-loin .mail {
+    position: absolute;
+    top: 2830px;
+    left: 170px;
+}
+
+#aller-plus-loin .reseaux-sociaux{
+    position: absolute;
+    top: 3010px;
+    left: 260px;
+}
+
+#aller-plus-loin .streaming {
+    position: absolute;
+    top: 3125px;
+    left: 265px;
 }
 /*page article 4*/
 
