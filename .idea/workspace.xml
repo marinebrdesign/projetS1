@@ -19,11 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="mise en page des autres projets et correction des images des autres projets">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="ajout des flèches du menu">
       <change beforePath="$PROJECT_DIR$/css/mescss/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/menu.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/typographie-couleur.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typographie-couleur.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,14 +114,7 @@
       <workItem from="1607183806655" duration="4763000" />
       <workItem from="1607200355222" duration="5248000" />
       <workItem from="1607246187712" duration="2256000" />
-      <workItem from="1607259309124" duration="11904000" />
-    </task>
-    <task id="LOCAL-00008" summary="correction code html et ajout de la couleur du fond">
-      <created>1605891489366</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1605891489366</updated>
+      <workItem from="1607259309124" duration="12405000" />
     </task>
     <task id="LOCAL-00009" summary="correction html titre &quot;polluting Girl&quot;">
       <created>1605892091646</created>
@@ -462,7 +452,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607277812399</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="ajout des flèches du menu">
+      <created>1607285345708</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1607285345708</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -481,7 +478,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="correction du placement de span" />
     <MESSAGE value="réalisation des triangles du menu" />
     <MESSAGE value="correction de la taille des a du menu" />
     <MESSAGE value="pause dans le création du rectangle orange dans la plage index" />
@@ -506,6 +502,7 @@
     <MESSAGE value="correction mise en page du cercle emballages" />
     <MESSAGE value="mise en page des" />
     <MESSAGE value="mise en page des autres projets et correction des images des autres projets" />
-    <option name="LAST_COMMIT_MESSAGE" value="mise en page des autres projets et correction des images des autres projets" />
+    <MESSAGE value="ajout des flèches du menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout des flèches du menu" />
   </component>
 </project>
