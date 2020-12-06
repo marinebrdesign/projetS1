@@ -19,12 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="rectangle du début de la page de l'article scientifique">
+    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="rectangle de l'image de la page contact et formulaire de contact">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/typographie-couleur.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typographie-couleur.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,14 +113,8 @@
       <workItem from="1607118635901" duration="5936000" />
       <workItem from="1607159970638" duration="4288000" />
       <workItem from="1607183806655" duration="4763000" />
-      <workItem from="1607200355222" duration="4446000" />
-    </task>
-    <task id="LOCAL-00005" summary="correction des images + ajout de la vidéo + ajout du css &quot;menu&quot;">
-      <created>1605537084073</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1605537084073</updated>
+      <workItem from="1607200355222" duration="5248000" />
+      <workItem from="1607246187712" duration="300000" />
     </task>
     <task id="LOCAL-00006" summary="icône menu">
       <created>1605798386185</created>
@@ -461,7 +452,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607186878025</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="rectangle de l'image de la page contact et formulaire de contact">
+      <created>1607204862039</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1607204862039</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -480,7 +478,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="correction html de la page article 1" />
     <MESSAGE value="correction html de la page article 2" />
     <MESSAGE value="fin de la mise en page de la page contact pour le moment" />
     <MESSAGE value="correction du html de la nav + placement des h1 des artciles et du menu" />
@@ -505,6 +502,7 @@
     <MESSAGE value="cercle de l'article internet" />
     <MESSAGE value="cercle de l'article emballages" />
     <MESSAGE value="rectangle du début de la page de l'article scientifique" />
-    <option name="LAST_COMMIT_MESSAGE" value="rectangle du début de la page de l'article scientifique" />
+    <MESSAGE value="rectangle de l'image de la page contact et formulaire de contact" />
+    <option name="LAST_COMMIT_MESSAGE" value="rectangle de l'image de la page contact et formulaire de contact" />
   </component>
 </project>
