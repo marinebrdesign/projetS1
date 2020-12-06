@@ -19,16 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="correction transition pour la fermeture du menu">
+    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="ajout du logo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/menu.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/girlboss-et-la-pollution-numerique.html" beforeDir="false" afterPath="$PROJECT_DIR$/girlboss-et-la-pollution-numerique.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/la-pollution-numéerique-et-le-E-commerce.html" beforeDir="false" afterPath="$PROJECT_DIR$/la-pollution-numéerique-et-le-E-commerce.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/le-commerce-par-internet-est-un-desastre-ecologique.html" beforeDir="false" afterPath="$PROJECT_DIR$/le-commerce-par-internet-est-un-desastre-ecologique.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quelles-solutions-pour-reduire-cette-pollution.html" beforeDir="false" afterPath="$PROJECT_DIR$/quelles-solutions-pour-reduire-cette-pollution.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,14 +116,7 @@
       <workItem from="1607183806655" duration="4763000" />
       <workItem from="1607200355222" duration="5248000" />
       <workItem from="1607246187712" duration="2256000" />
-      <workItem from="1607259309124" duration="14137000" />
-    </task>
-    <task id="LOCAL-00010" summary="ajout des div &quot;source&quot; et continuation des typographies et couleur">
-      <created>1605893263479</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1605893263479</updated>
+      <workItem from="1607259309124" duration="15601000" />
     </task>
     <task id="LOCAL-00011" summary="continuation de la typographie et couleur">
       <created>1605894649741</created>
@@ -467,7 +454,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607285761512</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="ajout du logo">
+      <created>1607287561837</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1607287561837</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -486,7 +480,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="correction de la taille des a du menu" />
     <MESSAGE value="pause dans le création du rectangle orange dans la plage index" />
     <MESSAGE value="création des rectangles de la partie &quot;présentation&quot;" />
     <MESSAGE value="positionnement de la source du tweet 1" />
@@ -511,6 +504,7 @@
     <MESSAGE value="mise en page des autres projets et correction des images des autres projets" />
     <MESSAGE value="ajout des flèches du menu" />
     <MESSAGE value="correction transition pour la fermeture du menu" />
-    <option name="LAST_COMMIT_MESSAGE" value="correction transition pour la fermeture du menu" />
+    <MESSAGE value="ajout du logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout du logo" />
   </component>
 </project>

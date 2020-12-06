@@ -299,6 +299,21 @@ li {
     padding-left: 40px;
 }
 
+#e-commerce .mise-en-exergue1 {
+    position: absolute;
+    left: 8px;
+    padding-right: 150px;
+}
+.ampoule {
+    position: absolute;
+    top: 0;
+    left: 215px;
+}
+
+#e-commerce p:nth-of-type(5) {
+    margin-top: 120px;
+}
+
 .micro-trottoir h3 {
     text-align: center;
     margin-top : 50px
