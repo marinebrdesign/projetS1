@@ -19,10 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="ajout du logo">
+    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="mise en exergue de la page la pollution numérique et le E-commerce">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/la-pollution-numéerique-et-le-E-commerce.html" beforeDir="false" afterPath="$PROJECT_DIR$/la-pollution-numéerique-et-le-E-commerce.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quelles-solutions-pour-reduire-cette-pollution.html" beforeDir="false" afterPath="$PROJECT_DIR$/quelles-solutions-pour-reduire-cette-pollution.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,14 +116,7 @@
       <workItem from="1607183806655" duration="4763000" />
       <workItem from="1607200355222" duration="5248000" />
       <workItem from="1607246187712" duration="2256000" />
-      <workItem from="1607259309124" duration="15601000" />
-    </task>
-    <task id="LOCAL-00011" summary="continuation de la typographie et couleur">
-      <created>1605894649741</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1605894649741</updated>
+      <workItem from="1607259309124" duration="16226000" />
     </task>
     <task id="LOCAL-00012" summary="continuation de la typographie et couleur (titres, images, temps de lecture)">
       <created>1606067386780</created>
@@ -461,7 +454,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607287561837</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="mise en exergue de la page la pollution numérique et le E-commerce">
+      <created>1607289070285</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1607289070285</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -480,7 +480,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pause dans le création du rectangle orange dans la plage index" />
     <MESSAGE value="création des rectangles de la partie &quot;présentation&quot;" />
     <MESSAGE value="positionnement de la source du tweet 1" />
     <MESSAGE value="style graphique et positionnement du tweet 1 et correction des typographies" />
@@ -505,6 +504,7 @@
     <MESSAGE value="ajout des flèches du menu" />
     <MESSAGE value="correction transition pour la fermeture du menu" />
     <MESSAGE value="ajout du logo" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout du logo" />
+    <MESSAGE value="mise en exergue de la page la pollution numérique et le E-commerce" />
+    <option name="LAST_COMMIT_MESSAGE" value="mise en exergue de la page la pollution numérique et le E-commerce" />
   </component>
 </project>

@@ -361,6 +361,22 @@ li {
     padding: 0 100px 0 70px;
 }
 
+#internet .mise-en-exergue2 {
+    position: absolute;
+    left: 8px;
+    padding-right: 180px;
+}
+.ampoule2 {
+    position: absolute;
+    top: 0;
+    left: 200px;
+}
+
+#internet > ul:nth-of-type(2) > li:nth-of-type(1) {
+    margin-top: 130px;
+}
+
+
 #emballages figure { /*a revoir*/
     padding-left:100px;
     margin: 0;
@@ -370,7 +386,7 @@ li {
     text-align: center;
     padding: 0 100px 20px 0;
 }
-/*page artcile 4*/
+/*page article 4*/
 
 .image-article4 h2 {
     text-align: left;
