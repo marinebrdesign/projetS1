@@ -419,6 +419,14 @@ li {
     padding-right: 150px;
 }
 
+#scientifique p:nth-of-type(3) {
+    margin-top: 90px;
+}
+
+#scientifique p:nth-of-type(5), #scientifique p:nth-of-type(8)  {
+    margin-top: 110px;
+}
+
 /* page contact*/
 
 .image-contact h2 {

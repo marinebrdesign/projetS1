@@ -326,6 +326,24 @@
     border: solid 1px #250B55;
 }
 
+#scientifique .camion {
+    position: absolute;
+    top: 805px;
+    left: 111px;
+}
+
+#scientifique .shopping-en-ligne {
+    position: absolute;
+    top: 1375px;
+    left: 209px;
+}
+
+#scientifique .data {
+    position: absolute;
+    top: 2090px;
+    left: 120px;
+}
+
 /*page contact*/
 
 #rectangle-h2-p5 {
