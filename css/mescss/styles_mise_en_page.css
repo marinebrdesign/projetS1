@@ -284,6 +284,11 @@ li {
 }
 
 /* pages article 2*/
+
+.image-article2 {
+    position: relative;
+}
+
 .image-article2 h2 {
     text-align: left;
     padding : 42px 56px 0 56px;
@@ -308,6 +313,9 @@ li {
 .image-article2 figcaption {
     text-align: center;
     padding-right: 170px;
+}
+#pollution-numerique {
+    position: relative;
 }
 
 #pollution-numerique figure { /*a revoir*/
@@ -339,10 +347,14 @@ li {
 .online-store {
     padding: 0 20px 0 30px;
 }
+.micro-trottoir {
+    position: relative;
+}
 
 .micro-trottoir h3 {
     text-align: center;
-    margin-top : 50px
+    margin-top : 35px;
+    padding-top:5px;
 }
 
 /*page article 3*/
