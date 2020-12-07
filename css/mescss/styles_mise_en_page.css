@@ -56,6 +56,10 @@ span {
     top: 630px;
 }
 
+.tweet1 {
+    position: relative;
+}
+
 .tweet1 figure {
     padding-left: 35px;
     padding-top:  49px;
@@ -67,7 +71,7 @@ span {
     z-index: 1;
     position: absolute;
     left: 220px;
-    top: 800px;
+    top: 50px;
     right: 30px;
     padding: 0 10px 0 10px;
 }
@@ -78,11 +82,15 @@ span {
     position: absolute;
     left: 44px;
     right: 44px;
-    top: 1200px;
+    top: 460px;
+}
+
+.tweet2 {
+    position: relative;
 }
 
 .tweet2 figure {
-    padding-left: 60px;
+    padding-left: 65px;
     padding-top: 78px;
     margin:90px 0 0 0;
 }
@@ -90,31 +98,25 @@ span {
 #triangle-haut-tweet2 {
     z-index: -1;
     position: absolute;
-    left: 30px;
-    top: 1350px;
+    left: 35px;
+    top: 50px;
 }
 
 #triangle-bas-tweet2 {
     z-index: -1;
     position: absolute;
-    left: 200px;
-    top: 1610px;
+    left: 215px;
+    top: 315px;
 }
 
 .tweet2 figcaption {
     text-align: center;
     z-index: 1;
     position: absolute;
-    top: 1710px;
+    top: 415px;
     right: 140px;
+    left: 35px;
     padding: 0 10px 0 10px;
-}
-
-#rectangle-tweet2 {
-    z-index: -2;
-    position: absolute;
-    left: 30px;
-    top: 1350px;
 }
 
 .tweet2 p { /* a revoir*/
@@ -123,38 +125,21 @@ span {
     text-align: center;
 }
 
+.tweet3 {
+    position: relative;
+}
+
 .tweet3 figure {
-    padding-left: 80px;
-    padding-top:70px;
+    padding-left: 90px;
+    padding-top:90px;
     margin: 0;
-}
-
-#rectangle-tweet3 {
-    z-index: -3;
-    position: absolute;
-    left: 30px;
-    top: 1830px;
-}
-
-#rectangle-bas-tweet3 {
-    z-index: -2;
-    position: absolute;
-    left: 30px;
-    top: 1985px;
-}
-
-#rectangle-haut-tweet3 {
-    z-index: -2;
-    position: absolute;
-    left: 195px;
-    top: 1830px;
 }
 
 .tweet3 figcaption {
     text-align: center;
     z-index: 1;
     position: absolute;
-    top: 2160px;
+    top: 390px;
     left: 200px;
     right: 47px;
     padding: 0 10px 0 10px;

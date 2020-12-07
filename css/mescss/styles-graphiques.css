@@ -32,7 +32,7 @@
     background:#FFFFFF;
     position: absolute;
     left: 35px;
-    top:1200px;
+    top:455px;
 }
 
 /*tweet 2*/
@@ -53,22 +53,24 @@
 }
 
 #rectangle-tweet2 {
-    width:295px;
+    width:305px;
     height:447px;
     background:#FFFFFF;
     position: absolute;
-    left: 30px;
-    top:1350px;
+    top: 50px;
+    left: 35px;
+    z-index: -2;
 }
 
 /*tweet 3*/
 #rectangle-tweet3 {
-    width:295px;
+    width:305px;
     height:430px;
     background:#FFFFFF;
     position: absolute;
-    left: 30px;
-    top:1700px;
+    left: 35px;
+    top:50px;
+    z-index: -3;
 }
 
 #rectangle-haut-tweet3 {
@@ -76,8 +78,9 @@
     height:198px;
     background:#E63962;
     position: absolute;
-    left: 211px;
-    top:1700px;
+    left: 210px;
+    top:50px;
+    z-index: -2;
 }
 
 #rectangle-bas-tweet3 {
@@ -85,8 +88,9 @@
     height: 198px;
     background: #F8C66A;
     position: absolute;
-    left: 30px;
-    top: 1900px;
+    left: 35px;
+    top: 215px;
+    z-index: -2;
 }
 
 .ligne-verticale {

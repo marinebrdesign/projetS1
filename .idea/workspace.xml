@@ -19,16 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="footer">
+    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="correction du footer des positionnement relative/absolute">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/girlboss-et-la-pollution-numerique.html" beforeDir="false" afterPath="$PROJECT_DIR$/girlboss-et-la-pollution-numerique.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/la-pollution-numéerique-et-le-E-commerce.html" beforeDir="false" afterPath="$PROJECT_DIR$/la-pollution-numéerique-et-le-E-commerce.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/le-commerce-par-internet-est-un-desastre-ecologique.html" beforeDir="false" afterPath="$PROJECT_DIR$/le-commerce-par-internet-est-un-desastre-ecologique.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quelles-solutions-pour-reduire-cette-pollution.html" beforeDir="false" afterPath="$PROJECT_DIR$/quelles-solutions-pour-reduire-cette-pollution.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,14 +117,8 @@
       <workItem from="1607200355222" duration="5248000" />
       <workItem from="1607246187712" duration="2256000" />
       <workItem from="1607259309124" duration="21822000" />
-      <workItem from="1607327542672" duration="10596000" />
-    </task>
-    <task id="LOCAL-00018" summary="fin de la mise en page des tweets pour le moment">
-      <created>1606294940163</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1606294940163</updated>
+      <workItem from="1607327542672" duration="11507000" />
+      <workItem from="1607352364153" duration="1611000" />
     </task>
     <task id="LOCAL-00019" summary="mise en page de la p">
       <created>1606299809354</created>
@@ -468,7 +456,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607338145458</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="correction du footer des positionnement relative/absolute">
+      <created>1607339322668</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1607339322668</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -487,7 +482,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="réalisation du rectangle &quot;nastygal&quot;" />
     <MESSAGE value="dégradé linéaire" />
     <MESSAGE value="rectangle blanc du h2 de la galerie et dégradé linéaire" />
     <MESSAGE value="demi-cercle de l'image de l'article pollution" />
@@ -512,6 +506,7 @@
     <MESSAGE value="logo des articles de la page le commerce par internet est un désastre écologique" />
     <MESSAGE value="barre de navigation fixe" />
     <MESSAGE value="footer" />
-    <option name="LAST_COMMIT_MESSAGE" value="footer" />
+    <MESSAGE value="correction du footer des positionnement relative/absolute" />
+    <option name="LAST_COMMIT_MESSAGE" value="correction du footer des positionnement relative/absolute" />
   </component>
 </project>
