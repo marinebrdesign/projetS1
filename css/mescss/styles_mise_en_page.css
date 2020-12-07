@@ -476,7 +476,9 @@ li {
 }
 
 /* page contact*/
-
+.image-contact {
+    position: relative;
+}
 .image-contact h2 {
     text-align: center;
     padding-top: 35px;

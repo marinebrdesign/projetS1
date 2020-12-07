@@ -373,7 +373,7 @@
     background:#FFFFFF;
     position: absolute;
     left: 145px;
-    top: 87px;
+    top: 30px;
     z-index: -1;
     border: solid 1px #250B55;
 }
@@ -384,7 +384,7 @@
      background:#FFEAD7;
      position: absolute;
      left: 177px;
-     top:102px;
+     top:50px;
      z-index: -2;
  }
 
