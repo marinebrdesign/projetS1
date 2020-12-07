@@ -19,13 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="ajout de l'icône &quot;envoyer&quot; du formulaire de contact">
+    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="ajout des icônes du temps de lecture">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/girlboss-et-la-pollution-numerique.html" beforeDir="false" afterPath="$PROJECT_DIR$/girlboss-et-la-pollution-numerique.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/la-pollution-numéerique-et-le-E-commerce.html" beforeDir="false" afterPath="$PROJECT_DIR$/la-pollution-numéerique-et-le-E-commerce.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/le-commerce-par-internet-est-un-desastre-ecologique.html" beforeDir="false" afterPath="$PROJECT_DIR$/le-commerce-par-internet-est-un-desastre-ecologique.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quelles-solutions-pour-reduire-cette-pollution.html" beforeDir="false" afterPath="$PROJECT_DIR$/quelles-solutions-pour-reduire-cette-pollution.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,14 +118,7 @@
       <workItem from="1607246187712" duration="2256000" />
       <workItem from="1607259309124" duration="21822000" />
       <workItem from="1607327542672" duration="11507000" />
-      <workItem from="1607352364153" duration="12480000" />
-    </task>
-    <task id="LOCAL-00029" summary="corrrection index.html">
-      <created>1606740396796</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1606740396796</updated>
+      <workItem from="1607352364153" duration="14762000" />
     </task>
     <task id="LOCAL-00030" summary="correction html de la page article 1">
       <created>1606740572956</created>
@@ -466,7 +456,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607366267221</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="ajout des icônes du temps de lecture">
+      <created>1607369881619</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1607369881619</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -485,7 +482,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="rectangle de l'image de la page contact et formulaire de contact" />
     <MESSAGE value="correction mise en page du cercle emballages" />
     <MESSAGE value="mise en page des" />
     <MESSAGE value="mise en page des autres projets et correction des images des autres projets" />
@@ -510,6 +506,7 @@
     <MESSAGE value="ajout de l'image de fond de la vidéo et fonctionnement de la vidéo" />
     <MESSAGE value="ajout des icônes réseaux sociaux et mail" />
     <MESSAGE value="ajout de l'icône &quot;envoyer&quot; du formulaire de contact" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout de l'icône &quot;envoyer&quot; du formulaire de contact" />
+    <MESSAGE value="ajout des icônes du temps de lecture" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout des icônes du temps de lecture" />
   </component>
 </project>
