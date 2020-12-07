@@ -193,7 +193,11 @@ footer {
 .image-série {
     position: relative;
 }
-
+.image-série img {
+    position: absolute;
+    top: 100px;
+    z-index: -1;
+}
 .image-série h2 {
     text-align: left;
     padding : 20px 96px 0 96px;
