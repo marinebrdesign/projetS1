@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="ajout de la flèche pour remonter vers le haut">
+    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="remplacement des &quot;b&quot; par &quot;strong&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/projetS1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/projets1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" afterDir="false" />
@@ -46,6 +48,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1k5aIF6Be3URDETFt3mf877YXuI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -54,7 +57,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Sujet-TP-mobile" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -120,28 +123,9 @@
       <workItem from="1607246187712" duration="2256000" />
       <workItem from="1607259309124" duration="21822000" />
       <workItem from="1607327542672" duration="11507000" />
-      <workItem from="1607352364153" duration="16136000" />
-    </task>
-    <task id="LOCAL-00031" summary="correction html de la page article 2">
-      <created>1606740752055</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1606740752055</updated>
-    </task>
-    <task id="LOCAL-00032" summary="fin de la mise en page de la page contact pour le moment">
-      <created>1606745249798</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1606745249798</updated>
-    </task>
-    <task id="LOCAL-00033" summary="correction du html de la nav + placement des h1 des artciles et du menu">
-      <created>1606857381270</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1606857381270</updated>
+      <workItem from="1607352364153" duration="18038000" />
+      <workItem from="1607375354755" duration="141000" />
+      <workItem from="1607375522122" duration="2598000" />
     </task>
     <task id="LOCAL-00034" summary="correction du placement de span">
       <created>1606857730148</created>
@@ -465,7 +449,28 @@
       <option name="project" value="LOCAL" />
       <updated>1607372114519</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="correction de l'organisation des pages de css et de la typographie /couleurs">
+      <created>1607373671901</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1607373671901</updated>
+    </task>
+    <task id="LOCAL-00081" summary="flèche pour remonter vers le haut pour les autres pages">
+      <created>1607373827144</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1607373827144</updated>
+    </task>
+    <task id="LOCAL-00082" summary="remplacement des &quot;b&quot; par &quot;strong&quot;">
+      <created>1607375227656</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1607375227656</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -484,9 +489,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="mise en page des" />
-    <MESSAGE value="mise en page des autres projets et correction des images des autres projets" />
-    <MESSAGE value="ajout des flèches du menu" />
     <MESSAGE value="correction transition pour la fermeture du menu" />
     <MESSAGE value="ajout du logo" />
     <MESSAGE value="mise en exergue de la page la pollution numérique et le E-commerce" />
@@ -509,6 +511,9 @@
     <MESSAGE value="ajout de l'icône &quot;envoyer&quot; du formulaire de contact" />
     <MESSAGE value="ajout des icônes du temps de lecture" />
     <MESSAGE value="ajout de la flèche pour remonter vers le haut" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout de la flèche pour remonter vers le haut" />
+    <MESSAGE value="correction de l'organisation des pages de css et de la typographie /couleurs" />
+    <MESSAGE value="flèche pour remonter vers le haut pour les autres pages" />
+    <MESSAGE value="remplacement des &quot;b&quot; par &quot;strong&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="remplacement des &quot;b&quot; par &quot;strong&quot;" />
   </component>
 </project>

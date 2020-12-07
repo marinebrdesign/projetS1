@@ -173,3 +173,19 @@ h4 {
     font-size: 16px;
     text-transform: none;
 }
+
+#autres_projets a {
+    text-decoration: none;
+}
+
+#autres_projets b {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#autres_projets a {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+}
