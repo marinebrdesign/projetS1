@@ -515,6 +515,12 @@ li {
     padding-left: 215px;
     margin-bottom: 0;
 }
+
+#me-contacter img {
+    position: absolute;
+    top:1005px;
+    left: 310px;
+}
 /*autres projets*/
 #autres_projets > .projets-gauche,#autres_projets > .projets-droite {
     display: table-cell;
