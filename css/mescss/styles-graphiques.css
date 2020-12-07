@@ -89,6 +89,23 @@
     top: 1900px;
 }
 
+.ligne-verticale {
+    width:1px;
+    border-left:1px solid black;
+    height:147px;
+    position:absolute;
+    left: 187px;
+    top: 2260px;
+}
+.ligne-horizontale {
+    border-top:1px solid black;
+    width:375px;
+    position:absolute;
+    top: 2260px;
+}
+
+
+
 /*article1*/
 #rectangle-h2-p1 {
     width:201px;

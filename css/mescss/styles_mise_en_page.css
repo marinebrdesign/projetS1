@@ -170,17 +170,30 @@ footer {
     margin-top: 34px;
 }
 
+.forme-rose {
+    position: absolute;
+    left: -51px;
+    top: 2260px;
+    z-index: -1;
+}
+
+.forme-orange {
+    position: absolute;
+    left: 160px;
+    top: 2260px;
+    z-index: -1;
+}
 .contact.module-footer, .mentions-legales.module-footer {
     display: table-cell;
     width: 375px;
 }
 
-.contact.module-footer > address > p {
-    padding: 0 0 0 10px;
+.contact.module-footer {
+    padding-left: 10px;
 }
 
-.mentions-legales.module-footer p {
-    padding-right: 10px;
+.mentions-legales.module-footer {
+    padding: 0 10px 0 50px;
 }
 
 .reseaux.module-footer li {
