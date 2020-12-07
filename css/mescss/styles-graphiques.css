@@ -92,7 +92,7 @@
     top: 215px;
     z-index: -2;
 }
-
+/*footer*/
 .ligne-verticale {
     width:1px;
     border-left:1px solid black;
@@ -115,7 +115,7 @@
     background:#FFFFFF;
     position: absolute;
     left: 87px;
-    top:86px;
+    top:25px;
     z-index: -2;
     border: solid 1px #250B55;
 }

@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="correction du footer des positionnement relative/absolute">
+    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="correction de la page d'accueil des positionnement relative/absolute">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" afterDir="false" />
@@ -118,14 +118,7 @@
       <workItem from="1607246187712" duration="2256000" />
       <workItem from="1607259309124" duration="21822000" />
       <workItem from="1607327542672" duration="11507000" />
-      <workItem from="1607352364153" duration="1611000" />
-    </task>
-    <task id="LOCAL-00019" summary="mise en page de la p">
-      <created>1606299809354</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1606299809354</updated>
+      <workItem from="1607352364153" duration="2709000" />
     </task>
     <task id="LOCAL-00020" summary="mise en page de la page d'accueil">
       <created>1606299932525</created>
@@ -463,7 +456,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607339322668</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="correction de la page d'accueil des positionnement relative/absolute">
+      <created>1607353991194</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1607353991194</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -482,7 +482,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="dégradé linéaire" />
     <MESSAGE value="rectangle blanc du h2 de la galerie et dégradé linéaire" />
     <MESSAGE value="demi-cercle de l'image de l'article pollution" />
     <MESSAGE value="rectangle violet du début de la page la pollution numérique et le E-commerce et rectangle noir de l'article pollution" />
@@ -507,6 +506,7 @@
     <MESSAGE value="barre de navigation fixe" />
     <MESSAGE value="footer" />
     <MESSAGE value="correction du footer des positionnement relative/absolute" />
-    <option name="LAST_COMMIT_MESSAGE" value="correction du footer des positionnement relative/absolute" />
+    <MESSAGE value="correction de la page d'accueil des positionnement relative/absolute" />
+    <option name="LAST_COMMIT_MESSAGE" value="correction de la page d'accueil des positionnement relative/absolute" />
   </component>
 </project>
