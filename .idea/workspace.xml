@@ -19,9 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="ajout des icônes réseaux sociaux et mail">
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="ajout de l'icône &quot;envoyer&quot; du formulaire de contact">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/girlboss-et-la-pollution-numerique.html" beforeDir="false" afterPath="$PROJECT_DIR$/girlboss-et-la-pollution-numerique.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/la-pollution-numéerique-et-le-E-commerce.html" beforeDir="false" afterPath="$PROJECT_DIR$/la-pollution-numéerique-et-le-E-commerce.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le-commerce-par-internet-est-un-desastre-ecologique.html" beforeDir="false" afterPath="$PROJECT_DIR$/le-commerce-par-internet-est-un-desastre-ecologique.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quelles-solutions-pour-reduire-cette-pollution.html" beforeDir="false" afterPath="$PROJECT_DIR$/quelles-solutions-pour-reduire-cette-pollution.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,14 +121,7 @@
       <workItem from="1607246187712" duration="2256000" />
       <workItem from="1607259309124" duration="21822000" />
       <workItem from="1607327542672" duration="11507000" />
-      <workItem from="1607352364153" duration="11120000" />
-    </task>
-    <task id="LOCAL-00028" summary="début mise en page de la page contact, plus correction de la couleur de quelques éléments">
-      <created>1606733002482</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1606733002482</updated>
+      <workItem from="1607352364153" duration="12480000" />
     </task>
     <task id="LOCAL-00029" summary="corrrection index.html">
       <created>1606740396796</created>
@@ -462,7 +459,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607365910415</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="ajout de l'icône &quot;envoyer&quot; du formulaire de contact">
+      <created>1607366267221</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1607366267221</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -481,7 +485,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="rectangle du début de la page de l'article scientifique" />
     <MESSAGE value="rectangle de l'image de la page contact et formulaire de contact" />
     <MESSAGE value="correction mise en page du cercle emballages" />
     <MESSAGE value="mise en page des" />
@@ -506,6 +509,7 @@
     <MESSAGE value="repositonnement formulaire de contact" />
     <MESSAGE value="ajout de l'image de fond de la vidéo et fonctionnement de la vidéo" />
     <MESSAGE value="ajout des icônes réseaux sociaux et mail" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout des icônes réseaux sociaux et mail" />
+    <MESSAGE value="ajout de l'icône &quot;envoyer&quot; du formulaire de contact" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout de l'icône &quot;envoyer&quot; du formulaire de contact" />
   </component>
 </project>

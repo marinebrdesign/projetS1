@@ -234,6 +234,13 @@ footer {
     top: 74px;
 }
 
+.image-série > .temps-lecture > img {
+    position: absolute;
+    top: 10px;
+    left: 153px;
+}
+
+
 .image-série figure {
     padding : 5px 0 0 55px;
     margin: 0;
@@ -312,6 +319,12 @@ li {
     margin-bottom: 0;
 }
 
+.image-article2 > .temps-lecture > img {
+    position: absolute;
+    top: 108px;
+    left: 148px;
+}
+
 .image-article2 figure {
     margin: 0;
     padding: 3px 60px 0 55px;
@@ -321,6 +334,7 @@ li {
     text-align: center;
     padding-right: 170px;
 }
+
 #pollution-numerique {
     position: relative;
 }
@@ -376,6 +390,12 @@ li {
 
 .image-article3 .temps-lecture {
     padding: 5px 74px 0 160px;
+}
+
+.image-article3 > .temps-lecture > img {
+    position: absolute;
+    top: 89px;
+    left: 140px;
 }
 
 .image-article3 figure {
@@ -463,6 +483,11 @@ li {
 .image-article4 > .temps-lecture > p {
     padding-left: 15px;
     margin-bottom: 0;
+}
+
+.image-article4 > .temps-lecture > img {
+    position: absolute;
+    top: 22px;
 }
 
 .image-article4 figure {
