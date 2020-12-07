@@ -19,10 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="ajout des icônes du temps de lecture">
+    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="ajout de la flèche pour remonter vers le haut">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/typographie-couleur.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typographie-couleur.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,14 +120,7 @@
       <workItem from="1607246187712" duration="2256000" />
       <workItem from="1607259309124" duration="21822000" />
       <workItem from="1607327542672" duration="11507000" />
-      <workItem from="1607352364153" duration="14762000" />
-    </task>
-    <task id="LOCAL-00030" summary="correction html de la page article 1">
-      <created>1606740572956</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1606740572956</updated>
+      <workItem from="1607352364153" duration="16136000" />
     </task>
     <task id="LOCAL-00031" summary="correction html de la page article 2">
       <created>1606740752055</created>
@@ -463,7 +458,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607369881619</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="ajout de la flèche pour remonter vers le haut">
+      <created>1607372114519</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1607372114519</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -482,7 +484,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="correction mise en page du cercle emballages" />
     <MESSAGE value="mise en page des" />
     <MESSAGE value="mise en page des autres projets et correction des images des autres projets" />
     <MESSAGE value="ajout des flèches du menu" />
@@ -507,6 +508,7 @@
     <MESSAGE value="ajout des icônes réseaux sociaux et mail" />
     <MESSAGE value="ajout de l'icône &quot;envoyer&quot; du formulaire de contact" />
     <MESSAGE value="ajout des icônes du temps de lecture" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout des icônes du temps de lecture" />
+    <MESSAGE value="ajout de la flèche pour remonter vers le haut" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout de la flèche pour remonter vers le haut" />
   </component>
 </project>

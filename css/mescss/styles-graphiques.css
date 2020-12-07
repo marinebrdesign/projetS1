@@ -228,7 +228,6 @@
 }
 
 /*article 3*/
-
 #rectangle-h2-p3 {
     width:292px;
     height:52px;
@@ -334,8 +333,8 @@
     top: 3125px;
     left: 265px;
 }
-/*page article 4*/
 
+/*page article 4*/
 #rectangle-h2-p4 {
     width:277px;
     height:233px;
@@ -366,7 +365,6 @@
 }
 
 /*page contact*/
-
 #rectangle-h2-p5 {
     width:83px;
     height:28px;
@@ -388,7 +386,7 @@
      z-index: -2;
  }
 
-/*formulaaire de contact*/
+/*formulaire de contact*/
 .prenom {
     width:303px;
     height:30px;
@@ -442,7 +440,6 @@
 }
 
 /*autres projets*/
-
 #rectangle-1 {
     width:151px;
     height:40px;

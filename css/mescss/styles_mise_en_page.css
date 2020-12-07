@@ -4,7 +4,7 @@
     left: 250px;
     top: 15px;
 }
-
+/*barre de naviigation*/
 .barre-navigation {
     position: fixed;
     top: 0;
@@ -55,7 +55,7 @@ span {
     position: absolute;
     top: 630px;
 }
-
+/*twwet 1*/
 .tweet1 {
     position: relative;
 }
@@ -76,15 +76,16 @@ span {
     padding: 0 10px 0 10px;
 }
 
-.tweet1 p { /* a revoir*/
+.tweet1 p {
     text-align: center;
     z-index: 1;
     position: absolute;
     left: 44px;
     right: 44px;
     top: 460px;
+    padding: 0 3px 0 3px;
 }
-
+/*tweet 2*/
 .tweet2 {
     position: relative;
 }
@@ -119,12 +120,12 @@ span {
     padding: 0 10px 0 10px;
 }
 
-.tweet2 p { /* a revoir*/
+.tweet2 p {
     padding: 35px 51px 0 52px;
     margin-top: 0;
     text-align: center;
 }
-
+/*tweet 3*/
 .tweet3 {
     position: relative;
 }
@@ -145,7 +146,7 @@ span {
     padding: 0 10px 0 10px;
 }
 
-.tweet3 p { /* a revoir*/
+.tweet3 p {
     padding: 35px 75px 0 55px;
     text-align: center;
     margin-top: 20px;
@@ -209,6 +210,7 @@ footer {
 .reseaux.module-footer {
     padding: 20px 0 0 90px;
 }
+
 /* pages article 1*/
 .image-série {
     position: relative;
@@ -271,7 +273,7 @@ footer {
     padding : 5px 33px 0 33px
 }
 
-#serie figure { /*a revoir*/
+#serie figure {
     padding:5px 90px 15px 119px;
     margin: 0;
 }
@@ -315,7 +317,6 @@ li {
 }
 
 /* pages article 2*/
-
 .image-article2 {
     position: relative;
 }
@@ -356,7 +357,7 @@ li {
     position: relative;
 }
 
-#pollution-numerique figure { /*a revoir*/
+#pollution-numerique figure {
     padding:40px 0 10px 90px;
     margin: 0;
 }
@@ -425,7 +426,7 @@ li {
     padding: 5px 80px 0 75px;
 }
 
-#livraisons figure { /*a revoir*/
+#livraisons figure {
     position: relative;
     padding: 0 0 15px 100px;
     margin: 0;
@@ -440,7 +441,7 @@ li {
     position: relative;
 }
 
-#internet figure { /*a revoir*/
+#internet figure {
     padding: 0 0 15px 30px;
     margin: 0;
 }
@@ -469,7 +470,7 @@ li {
     position: relative;
 }
 
-#emballages figure { /*a revoir*/
+#emballages figure {
     padding-left:100px;
     margin: 0;
 }
@@ -478,8 +479,8 @@ li {
     text-align: center;
     padding: 0 100px 20px 0;
 }
-/*page article 4*/
 
+/*page article 4*/
 .image-article4 {
     position: relative;
 }
@@ -538,8 +539,7 @@ li {
     padding-right: 170px;
 }
 
-/*#a-propos p : aller à la ligne ?*/
-/*formuliare de contact*/
+/*formulaire de contact*/
 #me-contacter h4 {
     text-align: center;
 }

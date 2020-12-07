@@ -18,8 +18,9 @@ p, h1, h2, h3, h4,ul {
 }
 
 .barre-navigation {
-    font-family: "Poppins Black";
+    font-family: Poppins;
     font-size: 15px;
+    font-weight: 500;
 }
 
 .menu h1 {
@@ -47,15 +48,15 @@ body {
 }
 
 span {
-    /*font-style: italic;*/
     font-size: 14px;
-    font-family: roboto;
+    font-family: Roboto;
     font-style: italic;
-      color: #250B55;
+    color: #250B55;
 }
 
 .presentation-site h2 {
-    font-family: "Poppins SemiBold";
+    font-family: Poppins;
+    font-weight: 700;
     font-size: 15px;
 }
 
@@ -67,7 +68,7 @@ figcaption { /* a revoir*/
 }
 
 p, ul {
-    font-family: Roboto;
+    font-family:Roboto;
     font-size: 15px;
 }
 
@@ -78,18 +79,21 @@ p, ul {
 }
 
 .tweet1 a,.twee2, a,.tweet3 a {
-    font-family: "Poppins Light";
+    font-family: Poppins;
     font-size: 12px;
+    font-weight: 300;
     text-decoration: underline #250B55;
 }
 
 footer p {
-    font-family: "Roboto Medium";
+    font-family: Roboto;
+    font-weight: 500;
     font-size: 15px;
 }
 
 footer .mentions-legales.module-footer a {
-    font-family: "Roboto Medium";
+    font-family: Roboto;
+    font-weight: 500;
     font-size: 15px;
     text-decoration: underline #250B55;
 }
@@ -123,13 +127,14 @@ h2 { /*a revoir*/
 }
 
 h4 {
-    font-family: roboto;
+    font-family: Roboto;
     font-size: 15px;
     text-transform: uppercase;
 }
 
 #scientifique > .center > p:last-of-type {
-    font-family: "Roboto Light";
+    font-family: Roboto;
+    font-weight: 300;
     font-style: italic;
     font-size: 13px;
 }
@@ -151,19 +156,20 @@ h4 {
 }
 
 #me-contacter h4 { /* a revoir*/
-    font-family: roboto;
+    font-family: Roboto;
     font-size: 16px;
     text-transform: none;
 }
 
 #me-contacter p {
-    font-family: roboto;
+    font-family: Roboto;
     font-size: 15px;
     font-weight: 500;
 }
 
 #a-propos h3,#autres_projets h3  { /* a revoir*/
-    font-family: "Poppins SemiBold";
+    font-family: Poppins;
+    font-weight: 700;
     font-size: 16px;
     text-transform: none;
 }
