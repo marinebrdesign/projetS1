@@ -426,6 +426,10 @@ li {
 }
 /*page article 4*/
 
+.image-article4 {
+    position: relative;
+}
+
 .image-article4 h2 {
     text-align: left;
     padding : 35px 47px 0 50px;
@@ -436,7 +440,7 @@ li {
     padding : 10px 40px 0 175px;
     z-index: 1;
     position: absolute;
-    top: 135px;
+    top: 74px;
 }
 
 .image-article4 > .temps-lecture > p {
