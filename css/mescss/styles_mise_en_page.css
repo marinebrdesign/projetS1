@@ -358,6 +358,9 @@ li {
 }
 
 /*page article 3*/
+.image-article3 {
+    position: relative;
+}
 .image-article3 h2 {
     text-align: left;
     padding : 35px 50px 0 60px;
@@ -379,6 +382,7 @@ li {
 }
 
 #livraisons figure { /*a revoir*/
+    position: relative;
     padding: 0 0 15px 100px;
     margin: 0;
 }
@@ -388,6 +392,9 @@ li {
     padding-right: 100px;
 }
 
+#internet figure {
+    position: relative;
+}
 
 #internet figure { /*a revoir*/
     padding: 0 0 15px 30px;
@@ -414,6 +421,9 @@ li {
     margin-top: 130px;
 }
 
+#emballages figure {
+    position: relative;
+}
 
 #emballages figure { /*a revoir*/
     padding-left:100px;

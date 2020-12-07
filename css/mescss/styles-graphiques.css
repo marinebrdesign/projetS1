@@ -235,7 +235,7 @@
     background:#FFFFFF;
     position: absolute;
     left: 52px;
-    top:86px;
+    top:25px;
     z-index: -1;
     border: solid 1px #250B55;
 }
@@ -247,7 +247,7 @@
     background: #FFEAD7;
     z-index: -2;
     position: absolute;
-    top: 129px;
+    top: 68px;
     left: 74px;
 }
 
@@ -276,8 +276,7 @@
     background: #00DDC1;
     z-index: -1;
     position: absolute;
-    top: 613px;
-    left: 51px;
+    left: 20px;
 }
 
 .image-internet {
@@ -296,8 +295,7 @@
     background: #00DDC1;
     z-index: -1;
     position: absolute;
-    top: 1500px;
-    left: 130px;
+    left: 100px;
 }
 
 .image-emballages {
@@ -316,8 +314,7 @@
     background: #EC6787;
     z-index: -1;
     position: absolute;
-    top: 2480px;
-    left: 57px;
+    left: 20px;
 }
 
 #aller-plus-loin .mail {
