@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="correction de la page article 4 des positionnement relative/absolute">
+    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="correction de la page contact des positionnement relative/absolute">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,14 +118,7 @@
       <workItem from="1607246187712" duration="2256000" />
       <workItem from="1607259309124" duration="21822000" />
       <workItem from="1607327542672" duration="11507000" />
-      <workItem from="1607352364153" duration="5336000" />
-    </task>
-    <task id="LOCAL-00024" summary="fin de la mise en page de l'article 1 pour le moment">
-      <created>1606603527501</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1606603527501</updated>
+      <workItem from="1607352364153" duration="6994000" />
     </task>
     <task id="LOCAL-00025" summary="fin de la page article 2 pour le moment">
       <created>1606605347422</created>
@@ -462,7 +456,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607357642844</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="correction de la page contact des positionnement relative/absolute">
+      <created>1607357866749</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1607357866750</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -481,7 +482,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="création du cercle et mise en page de l'illustration du début de la page &quot;quelles solutions pour réduire cette pollution&quot;" />
     <MESSAGE value="cercle de l'article livraisons" />
     <MESSAGE value="cercle de l'article internet" />
     <MESSAGE value="cercle de l'article emballages" />
@@ -506,6 +506,7 @@
     <MESSAGE value="correction de la page article 3 des positionnement relative/absolute" />
     <MESSAGE value="correction de la page article 5 des positionnement relative/absolute" />
     <MESSAGE value="correction de la page article 4 des positionnement relative/absolute" />
-    <option name="LAST_COMMIT_MESSAGE" value="correction de la page article 4 des positionnement relative/absolute" />
+    <MESSAGE value="correction de la page contact des positionnement relative/absolute" />
+    <option name="LAST_COMMIT_MESSAGE" value="correction de la page contact des positionnement relative/absolute" />
   </component>
 </project>
