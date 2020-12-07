@@ -1,5 +1,11 @@
 /*accueil*/
-
+#rectangle-barre-nav {
+    width:375px;
+    height:55px;
+    background:#FFFCF1;
+    position: absolute;
+    z-index: -1;
+}
 /*présentation*/
 #rectangle-orange {
     width:181px;

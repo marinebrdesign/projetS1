@@ -1,18 +1,35 @@
 /*logo*/
 .logo {
     position: absolute;
-    left: 253px;
-    top: 20px;
+    left: 250px;
+    top: 15px;
 }
 
+.barre-navigation {
+    position: fixed;
+    top: 0;
+    z-index: 3;
+}
+
+main {
+    margin-top: 60px;
+}
+
+.main-1 {
+    margin-top: 75px;
+}
 /* page d'accueil*/
 .barre-navigation h1 {
     text-align: center;
-    padding: 16px 0 5px 0;
+    margin: 22px 0 10px 120px;
+    padding-bottom: 5px;
+    z-index: 1;
 }
 
 span {
-    padding: 50px 0 0 60px;
+    padding: 55px 0 0 60px;
+    position: absolute;
+    top: 0;
 }
 
 .presentation-site h2 {

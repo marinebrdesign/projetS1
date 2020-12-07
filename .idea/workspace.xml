@@ -19,10 +19,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="logo des articles de la page quelles solutions pour réduire cette pollution">
+    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="logo des articles de la page le commerce par internet est un désastre écologique">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/menu.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/girlboss-et-la-pollution-numerique.html" beforeDir="false" afterPath="$PROJECT_DIR$/girlboss-et-la-pollution-numerique.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/la-pollution-numéerique-et-le-E-commerce.html" beforeDir="false" afterPath="$PROJECT_DIR$/la-pollution-numéerique-et-le-E-commerce.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/le-commerce-par-internet-est-un-desastre-ecologique.html" beforeDir="false" afterPath="$PROJECT_DIR$/le-commerce-par-internet-est-un-desastre-ecologique.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quelles-solutions-pour-reduire-cette-pollution.html" beforeDir="false" afterPath="$PROJECT_DIR$/quelles-solutions-pour-reduire-cette-pollution.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,14 +123,8 @@
       <workItem from="1607183806655" duration="4763000" />
       <workItem from="1607200355222" duration="5248000" />
       <workItem from="1607246187712" duration="2256000" />
-      <workItem from="1607259309124" duration="21586000" />
-    </task>
-    <task id="LOCAL-00015" summary="correction de l'icône menu">
-      <created>1606253818565</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1606253818565</updated>
+      <workItem from="1607259309124" duration="21822000" />
+      <workItem from="1607327542672" duration="3095000" />
     </task>
     <task id="LOCAL-00016" summary="margin du span">
       <created>1606254252692</created>
@@ -461,7 +462,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607297322035</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="logo des articles de la page le commerce par internet est un désastre écologique">
+      <created>1607298870363</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1607298870363</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -480,7 +488,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="styles graphiques et mise en page des tweets 2 et 3" />
     <MESSAGE value="correction du menu des autres pages" />
     <MESSAGE value="styles graphiques et mise en page de l'image de la page article girlboss-et-la-pollution-numerique" />
     <MESSAGE value="réalisation du rectangle &quot;nastygal&quot;" />
@@ -505,6 +512,7 @@
     <MESSAGE value="mise en exergue de la page quelles solutions pour réduire cette pollution" />
     <MESSAGE value="logo de l'article e-commerce de la page la pollution numérique et le e-commerce" />
     <MESSAGE value="logo des articles de la page quelles solutions pour réduire cette pollution" />
-    <option name="LAST_COMMIT_MESSAGE" value="logo des articles de la page quelles solutions pour réduire cette pollution" />
+    <MESSAGE value="logo des articles de la page le commerce par internet est un désastre écologique" />
+    <option name="LAST_COMMIT_MESSAGE" value="logo des articles de la page le commerce par internet est un désastre écologique" />
   </component>
 </project>

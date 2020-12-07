@@ -2,13 +2,13 @@
     /*background-color: #FFFCF1;*/
     width: 25px;
     height: 25px;
-    position: absolute;
-    top: 18px;
+    position: fixed;
+    top: 17px;
     left: 27px;
     display: flex;
     align-items: center;
     justify-content: center;
-    z-index: 3;
+    z-index: 5;
 }
 
 .nav-toggle-bar,.nav-toggle-bar::before,.nav-toggle-bar::after {
@@ -53,7 +53,7 @@
     align-items: center;
     justify-content: center;
     transform: translateX(-100vw);
-    z-index: 2;
+    z-index: 4;
     transition: all 1s;
 }
 
