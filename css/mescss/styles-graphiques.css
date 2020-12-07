@@ -94,17 +94,15 @@
     border-left:1px solid black;
     height:147px;
     position:absolute;
-    left: 187px;
-    top: 2260px;
+    left: 25px;
+    top: 0;
 }
 .ligne-horizontale {
     border-top:1px solid black;
     width:375px;
     position:absolute;
-    top: 2260px;
+    top: 0;
 }
-
-
 
 /*article1*/
 #rectangle-h2-p1 {

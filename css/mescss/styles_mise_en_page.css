@@ -168,32 +168,36 @@ span {
 
 footer {
     margin-top: 34px;
+    position: relative;
 }
 
 .forme-rose {
     position: absolute;
     left: -51px;
-    top: 2260px;
+    top: 0;
     z-index: -1;
 }
 
 .forme-orange {
     position: absolute;
-    left: 160px;
-    top: 2260px;
+    left: 10px;
+    top: 0;
     z-index: -1;
 }
 .contact.module-footer, .mentions-legales.module-footer {
     display: table-cell;
+    vertical-align: top;
     width: 375px;
 }
 
 .contact.module-footer {
     padding-left: 10px;
+    position: relative;
 }
 
 .mentions-legales.module-footer {
     padding: 0 10px 0 50px;
+    position: relative;
 }
 
 .reseaux.module-footer li {
