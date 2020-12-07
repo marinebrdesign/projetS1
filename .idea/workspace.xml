@@ -19,10 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="repositonnement formulaire de contact">
+    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="ajout de l'image de fond de la vidéo et fonctionnement de la vidéo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/girlboss-et-la-pollution-numerique.html" beforeDir="false" afterPath="$PROJECT_DIR$/girlboss-et-la-pollution-numerique.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/la-pollution-numéerique-et-le-E-commerce.html" beforeDir="false" afterPath="$PROJECT_DIR$/la-pollution-numéerique-et-le-E-commerce.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le-commerce-par-internet-est-un-desastre-ecologique.html" beforeDir="false" afterPath="$PROJECT_DIR$/le-commerce-par-internet-est-un-desastre-ecologique.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quelles-solutions-pour-reduire-cette-pollution.html" beforeDir="false" afterPath="$PROJECT_DIR$/quelles-solutions-pour-reduire-cette-pollution.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,14 +123,7 @@
       <workItem from="1607246187712" duration="2256000" />
       <workItem from="1607259309124" duration="21822000" />
       <workItem from="1607327542672" duration="11507000" />
-      <workItem from="1607352364153" duration="7609000" />
-    </task>
-    <task id="LOCAL-00026" summary="fin de la mise en page article 3 pour le moment">
-      <created>1606678130670</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1606678130670</updated>
+      <workItem from="1607352364153" duration="10771000" />
     </task>
     <task id="LOCAL-00027" summary="fin de la mise en page article 4 pour le moment">
       <created>1606732054165</created>
@@ -463,7 +461,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607360186841</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="ajout de l'image de fond de la vidéo et fonctionnement de la vidéo">
+      <created>1607360606218</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1607360606218</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -482,7 +487,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="cercle de l'article internet" />
     <MESSAGE value="cercle de l'article emballages" />
     <MESSAGE value="rectangle du début de la page de l'article scientifique" />
     <MESSAGE value="rectangle de l'image de la page contact et formulaire de contact" />
@@ -507,6 +511,7 @@
     <MESSAGE value="correction de la page article 4 des positionnement relative/absolute" />
     <MESSAGE value="correction de la page contact des positionnement relative/absolute" />
     <MESSAGE value="repositonnement formulaire de contact" />
-    <option name="LAST_COMMIT_MESSAGE" value="repositonnement formulaire de contact" />
+    <MESSAGE value="ajout de l'image de fond de la vidéo et fonctionnement de la vidéo" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout de l'image de fond de la vidéo et fonctionnement de la vidéo" />
   </component>
 </project>

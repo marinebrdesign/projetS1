@@ -189,6 +189,9 @@ footer {
     display: inline;
 }
 
+.reseaux.module-footer {
+    padding: 20px 0 0 90px;
+}
 /* pages article 1*/
 .image-série {
     position: relative;
