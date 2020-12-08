@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="correction des soulignements des li">
+    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="correction de la décoration des li">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/typographie-couleur.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typographie-couleur.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,13 +124,7 @@
       <workItem from="1607375522122" duration="4576000" />
       <workItem from="1607412213553" duration="3868000" />
       <workItem from="1607417444118" duration="116000" />
-    </task>
-    <task id="LOCAL-00037" summary="pause dans le création du rectangle orange dans la plage index">
-      <created>1606906577784</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1606906577784</updated>
+      <workItem from="1607432666763" duration="1005000" />
     </task>
     <task id="LOCAL-00038" summary="création des rectangles de la partie &quot;présentation&quot;">
       <created>1606923981118</created>
@@ -468,7 +462,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607414003213</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="correction de la décoration des li">
+      <created>1607432868511</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1607432868511</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -487,7 +488,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="mise en exergue de la page quelles solutions pour réduire cette pollution" />
     <MESSAGE value="logo de l'article e-commerce de la page la pollution numérique et le e-commerce" />
     <MESSAGE value="logo des articles de la page quelles solutions pour réduire cette pollution" />
     <MESSAGE value="logo des articles de la page le commerce par internet est un désastre écologique" />
@@ -512,6 +512,7 @@
     <MESSAGE value="ajout des liens des autres projets du groupe de tp" />
     <MESSAGE value="import des typographies" />
     <MESSAGE value="correction des soulignements des li" />
-    <option name="LAST_COMMIT_MESSAGE" value="correction des soulignements des li" />
+    <MESSAGE value="correction de la décoration des li" />
+    <option name="LAST_COMMIT_MESSAGE" value="correction de la décoration des li" />
   </component>
 </project>
