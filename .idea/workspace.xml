@@ -21,6 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="correction de la décoration des li">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/typographie-couleur.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typographie-couleur.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -124,14 +126,8 @@
       <workItem from="1607375522122" duration="4576000" />
       <workItem from="1607412213553" duration="3868000" />
       <workItem from="1607417444118" duration="116000" />
-      <workItem from="1607432666763" duration="1005000" />
-    </task>
-    <task id="LOCAL-00038" summary="création des rectangles de la partie &quot;présentation&quot;">
-      <created>1606923981118</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1606923981118</updated>
+      <workItem from="1607432666763" duration="3040000" />
+      <workItem from="1607464680077" duration="3611000" />
     </task>
     <task id="LOCAL-00039" summary="positionnement de la source du tweet 1">
       <created>1606928043665</created>
@@ -469,7 +465,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607432868511</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="correction de la décoration des li">
+      <created>1607433866408</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1607433866408</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
