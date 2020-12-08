@@ -19,14 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="remplacement des &quot;b&quot; par &quot;strong&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/projetS1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/projets1.iml" afterDir="false" />
+    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/typographie-couleur.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typographie-couleur.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +53,10 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Sujet-TP-mobile" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -125,14 +122,8 @@
       <workItem from="1607327542672" duration="11507000" />
       <workItem from="1607352364153" duration="18038000" />
       <workItem from="1607375354755" duration="141000" />
-      <workItem from="1607375522122" duration="2598000" />
-    </task>
-    <task id="LOCAL-00034" summary="correction du placement de span">
-      <created>1606857730148</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1606857730148</updated>
+      <workItem from="1607375522122" duration="4576000" />
+      <workItem from="1607412213553" duration="1238000" />
     </task>
     <task id="LOCAL-00035" summary="réalisation des triangles du menu">
       <created>1606902593083</created>
@@ -470,7 +461,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607375227656</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="ajout des liens des autres projets du groupe de tp">
+      <created>1607378167694</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1607378167694</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -489,7 +487,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="correction transition pour la fermeture du menu" />
     <MESSAGE value="ajout du logo" />
     <MESSAGE value="mise en exergue de la page la pollution numérique et le E-commerce" />
     <MESSAGE value="mise en exergue de la page quelles solutions pour réduire cette pollution" />
@@ -514,6 +511,7 @@
     <MESSAGE value="correction de l'organisation des pages de css et de la typographie /couleurs" />
     <MESSAGE value="flèche pour remonter vers le haut pour les autres pages" />
     <MESSAGE value="remplacement des &quot;b&quot; par &quot;strong&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="remplacement des &quot;b&quot; par &quot;strong&quot;" />
+    <MESSAGE value="ajout des liens des autres projets du groupe de tp" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout des liens des autres projets du groupe de tp" />
   </component>
 </project>

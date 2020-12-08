@@ -12,13 +12,13 @@ p, h1, h2, h3, h4,ul {
 }
 
 .menu a {
-    font-family: Lato;
+    font-family: 'Lato', sans-serif;
     font-weight: 400;
     font-size: 18px;
 }
 
 .barre-navigation {
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
     font-size: 15px;
     font-weight: 500;
 }
@@ -26,7 +26,7 @@ p, h1, h2, h3, h4,ul {
 .menu h1 {
     text-transform: uppercase;
     text-align: center;
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
     font-weight: 900;
     font-size: 15px;
 }
@@ -42,57 +42,58 @@ body {
 .barre-navigation h1 {
     text-transform: uppercase;
     text-align: center;
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
     font-weight: 900;
     font-size: 15px;
 }
 
 span {
     font-size: 14px;
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-style: italic;
+    font-weight: 700;
     color: #250B55;
 }
 
 .presentation-site h2 {
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
     font-weight: 700;
     font-size: 15px;
 }
 
 figcaption { /* a revoir*/
-    font-family:Roboto;
+    font-family:'Roboto', sans-serif;
     font-weight: 400;
     font-size: 11px;
     color: #250B55;
 }
 
 p, ul {
-    font-family:Roboto;
+    font-family:'Roboto', sans-serif;
     font-size: 15px;
 }
 
 .tweet1 p,.tweet2 p, .tweet3 p {
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
     font-weight: 500;
     font-size: 13px;
 }
 
 .tweet1 a,.twee2, a,.tweet3 a {
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
     font-size: 12px;
     font-weight: 300;
     text-decoration: underline #250B55;
 }
 
 footer p {
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 15px;
 }
 
 footer .mentions-legales.module-footer a {
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 15px;
     text-decoration: underline #250B55;
@@ -103,72 +104,73 @@ footer .mentions-legales.module-footer a {
 }
 
 h3 {
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
     font-size: 15px;
 }
 
 h2 { /*a revoir*/
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
     font-size: 16px;
     font-weight: 500;
 }
 
 .chapeau { /* a revoir */
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
     font-style: italic;
     font-size: 15px;
 }
 
 .pullquote,.citation {
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-weight: bold;
     font-style: italic;
     color: #250B55;
 }
 
 h4 {
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 15px;
     text-transform: uppercase;
 }
 
 #scientifique > .center > p:last-of-type {
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-weight: 300;
     font-style: italic;
     font-size: 13px;
 }
 
 .image-article2 > .temps-lecture > p, .image-article3 > .temps-lecture > p, .image-article4 > .temps-lecture >p {
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 11px;
     font-weight: 500;
 }
 
 .image-série > .temps-lecture > p {
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 11px;
     color: #FFFF;
 }
 #autres_projets b {
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 14px;
 }
 
 #me-contacter h4 { /* a revoir*/
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
     text-transform: none;
 }
 
 #me-contacter p {
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 15px;
     font-weight: 500;
 }
 
 #a-propos h3,#autres_projets h3  { /* a revoir*/
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
     font-weight: 700;
     font-size: 16px;
     text-transform: none;
@@ -179,13 +181,13 @@ h4 {
 }
 
 #autres_projets b {
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 14px;
     font-weight: bold;
 }
 
 #autres_projets a {
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 14px;
     font-weight: 400;
 }
