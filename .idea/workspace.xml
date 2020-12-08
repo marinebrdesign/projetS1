@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="import des typographies" />
+    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="correction des soulignements des li">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +52,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Sujet-TP-mobile" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="web.server" />
@@ -119,14 +122,8 @@
       <workItem from="1607352364153" duration="18038000" />
       <workItem from="1607375354755" duration="141000" />
       <workItem from="1607375522122" duration="4576000" />
-      <workItem from="1607412213553" duration="1564000" />
-    </task>
-    <task id="LOCAL-00036" summary="correction de la taille des a du menu">
-      <created>1606902680333</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1606902680333</updated>
+      <workItem from="1607412213553" duration="3868000" />
+      <workItem from="1607417444118" duration="116000" />
     </task>
     <task id="LOCAL-00037" summary="pause dans le création du rectangle orange dans la plage index">
       <created>1606906577784</created>
@@ -464,7 +461,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607413739797</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="correction des soulignements des li">
+      <created>1607414003213</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1607414003213</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -483,7 +487,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="mise en exergue de la page la pollution numérique et le E-commerce" />
     <MESSAGE value="mise en exergue de la page quelles solutions pour réduire cette pollution" />
     <MESSAGE value="logo de l'article e-commerce de la page la pollution numérique et le e-commerce" />
     <MESSAGE value="logo des articles de la page quelles solutions pour réduire cette pollution" />
@@ -508,6 +511,7 @@
     <MESSAGE value="remplacement des &quot;b&quot; par &quot;strong&quot;" />
     <MESSAGE value="ajout des liens des autres projets du groupe de tp" />
     <MESSAGE value="import des typographies" />
-    <option name="LAST_COMMIT_MESSAGE" value="import des typographies" />
+    <MESSAGE value="correction des soulignements des li" />
+    <option name="LAST_COMMIT_MESSAGE" value="correction des soulignements des li" />
   </component>
 </project>
