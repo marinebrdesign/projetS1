@@ -19,11 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="correction de la décoration des li">
+    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="correction du formulaire de contact">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/typographie-couleur.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typographie-couleur.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/girlboss-et-la-pollution-numerique.html" beforeDir="false" afterPath="$PROJECT_DIR$/girlboss-et-la-pollution-numerique.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/la-pollution-numéerique-et-le-E-commerce.html" beforeDir="false" afterPath="$PROJECT_DIR$/la-pollution-numéerique-et-le-E-commerce.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le-commerce-par-internet-est-un-desastre-ecologique.html" beforeDir="false" afterPath="$PROJECT_DIR$/le-commerce-par-internet-est-un-desastre-ecologique.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quelles-solutions-pour-reduire-cette-pollution.html" beforeDir="false" afterPath="$PROJECT_DIR$/quelles-solutions-pour-reduire-cette-pollution.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +57,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TP-site-Times-Square/Emerveillement.html" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="web.server" />
@@ -127,14 +130,10 @@
       <workItem from="1607412213553" duration="3868000" />
       <workItem from="1607417444118" duration="116000" />
       <workItem from="1607432666763" duration="3040000" />
-      <workItem from="1607464680077" duration="3611000" />
-    </task>
-    <task id="LOCAL-00039" summary="positionnement de la source du tweet 1">
-      <created>1606928043665</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1606928043665</updated>
+      <workItem from="1607464680077" duration="4445000" />
+      <workItem from="1607519288721" duration="315000" />
+      <workItem from="1607545683017" duration="588000" />
+      <workItem from="1607589992090" duration="306000" />
     </task>
     <task id="LOCAL-00040" summary="style graphique et positionnement du tweet 1 et correction des typographies">
       <created>1606934229279</created>
@@ -472,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607433866408</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="correction du formulaire de contact">
+      <created>1607468427560</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1607468427560</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -491,7 +497,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="logo de l'article e-commerce de la page la pollution numérique et le e-commerce" />
     <MESSAGE value="logo des articles de la page quelles solutions pour réduire cette pollution" />
     <MESSAGE value="logo des articles de la page le commerce par internet est un désastre écologique" />
     <MESSAGE value="barre de navigation fixe" />
@@ -516,6 +521,7 @@
     <MESSAGE value="import des typographies" />
     <MESSAGE value="correction des soulignements des li" />
     <MESSAGE value="correction de la décoration des li" />
-    <option name="LAST_COMMIT_MESSAGE" value="correction de la décoration des li" />
+    <MESSAGE value="correction du formulaire de contact" />
+    <option name="LAST_COMMIT_MESSAGE" value="correction du formulaire de contact" />
   </component>
 </project>
