@@ -19,14 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="correction html">
+    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="ajout des liens des réseaux sociaux et écosia /lilo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/girlboss-et-la-pollution-numerique.html" beforeDir="false" afterPath="$PROJECT_DIR$/girlboss-et-la-pollution-numerique.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/la-pollution-numéerique-et-le-E-commerce.html" beforeDir="false" afterPath="$PROJECT_DIR$/la-pollution-numéerique-et-le-E-commerce.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/le-commerce-par-internet-est-un-desastre-ecologique.html" beforeDir="false" afterPath="$PROJECT_DIR$/le-commerce-par-internet-est-un-desastre-ecologique.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quelles-solutions-pour-reduire-cette-pollution.html" beforeDir="false" afterPath="$PROJECT_DIR$/quelles-solutions-pour-reduire-cette-pollution.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +52,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Exo-Techniques-CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="web.server" />
@@ -138,13 +133,7 @@
       <workItem from="1607700427573" duration="4000" />
       <workItem from="1607710509621" duration="671000" />
       <workItem from="1607763416864" duration="75000" />
-    </task>
-    <task id="LOCAL-00041" summary="styles graphiques et mise en page des tweets 2 et 3">
-      <created>1607014487897</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1607014487897</updated>
+      <workItem from="1607764740704" duration="697000" />
     </task>
     <task id="LOCAL-00042" summary="correction du menu des autres pages">
       <created>1607014601377</created>
@@ -482,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607590308641</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="ajout des liens des réseaux sociaux et écosia /lilo">
+      <created>1607764792322</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1607764792326</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -501,7 +497,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="logo des articles de la page le commerce par internet est un désastre écologique" />
     <MESSAGE value="barre de navigation fixe" />
     <MESSAGE value="footer" />
     <MESSAGE value="correction du footer des positionnement relative/absolute" />
@@ -526,6 +521,7 @@
     <MESSAGE value="correction de la décoration des li" />
     <MESSAGE value="correction du formulaire de contact" />
     <MESSAGE value="correction html" />
-    <option name="LAST_COMMIT_MESSAGE" value="correction html" />
+    <MESSAGE value="ajout des liens des réseaux sociaux et écosia /lilo" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout des liens des réseaux sociaux et écosia /lilo" />
   </component>
 </project>
