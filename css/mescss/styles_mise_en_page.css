@@ -525,10 +525,15 @@ li {
     margin-top: 90px;
 }
 
-#scientifique p:nth-of-type(5), #scientifique p:nth-of-type(8)  {
-    margin-top: 110px;
+.shopping-en-ligne p {
+    position: relative;
+    margin-bottom: 0;
 }
 
+.data p {
+    position: relative;
+    margin-bottom: 0;
+}
 /* page contact*/
 .image-contact {
     position: relative;

@@ -19,9 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="ajout des liens des réseaux sociaux et écosia /lilo">
+    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="ajout de la vidéo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/la-pollution-numéerique-et-le-E-commerce.html" beforeDir="false" afterPath="$PROJECT_DIR$/la-pollution-numéerique-et-le-E-commerce.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles-graphiques.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles_mise_en_page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le-commerce-par-internet-est-un-desastre-ecologique.html" beforeDir="false" afterPath="$PROJECT_DIR$/le-commerce-par-internet-est-un-desastre-ecologique.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quelles-solutions-pour-reduire-cette-pollution.html" beforeDir="false" afterPath="$PROJECT_DIR$/quelles-solutions-pour-reduire-cette-pollution.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,14 +136,10 @@
       <workItem from="1607700427573" duration="4000" />
       <workItem from="1607710509621" duration="671000" />
       <workItem from="1607763416864" duration="75000" />
-      <workItem from="1607764740704" duration="697000" />
-    </task>
-    <task id="LOCAL-00042" summary="correction du menu des autres pages">
-      <created>1607014601377</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1607014601377</updated>
+      <workItem from="1607764740704" duration="810000" />
+      <workItem from="1607788237711" duration="213000" />
+      <workItem from="1607851818301" duration="25000" />
+      <workItem from="1607866506732" duration="1723000" />
     </task>
     <task id="LOCAL-00043" summary="styles graphiques et mise en page de l'image de la page article girlboss-et-la-pollution-numerique">
       <created>1607019999105</created>
@@ -478,7 +477,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607764792326</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="ajout de la vidéo">
+      <created>1607765542010</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1607765542010</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -497,7 +503,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="barre de navigation fixe" />
     <MESSAGE value="footer" />
     <MESSAGE value="correction du footer des positionnement relative/absolute" />
     <MESSAGE value="correction de la page d'accueil des positionnement relative/absolute" />
@@ -522,6 +527,7 @@
     <MESSAGE value="correction du formulaire de contact" />
     <MESSAGE value="correction html" />
     <MESSAGE value="ajout des liens des réseaux sociaux et écosia /lilo" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout des liens des réseaux sociaux et écosia /lilo" />
+    <MESSAGE value="ajout de la vidéo" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout de la vidéo" />
   </component>
 </project>

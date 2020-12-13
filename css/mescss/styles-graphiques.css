@@ -316,22 +316,22 @@
     left: 20px;
 }
 
-#aller-plus-loin .mail {
-    position: absolute;
-    top: 2830px;
-    left: 170px;
+.mails img.mail {
+    position: relative;
+    left: 10px;
+    top: 10px;
 }
 
-#aller-plus-loin .reseaux-sociaux{
-    position: absolute;
-    top: 3010px;
-    left: 260px;
+.pour-reseaux img.reseaux-sociaux{
+    position: relative;
+    left: 10px;
+    top: 10px;
 }
 
-#aller-plus-loin .streaming {
-    position: absolute;
-    top: 3125px;
-    left: 265px;
+.streaming img.streaming {
+    position: relative;
+    left: 10px;
+    top: 10px;
 }
 
 /*page article 4*/
@@ -352,16 +352,14 @@
     left: 111px;
 }
 
-#scientifique .shopping-en-ligne {
-    position: absolute;
-    top: 1375px;
-    left: 209px;
+.shopping-en-ligne img.shopping-en-ligne {
+    position: relative;
+    left: 170px;
 }
 
-#scientifique .data {
-    position: absolute;
-    top: 2090px;
-    left: 120px;
+.data img.data {
+    position: relative;
+    left: 70px;
 }
 
 /*page contact*/
