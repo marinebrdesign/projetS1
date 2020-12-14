@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="qr8wp.ftp.infomaniak.com" id="56ac51bf-d930-4715-9a34-bc7daeccf871" port="22" nameFormat="DESCRIPTIVE" username="qr8wp_marinebeurier" />
+    </configs>
+  </component>
+</project>
