@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="correction position absolute =&gt; relative">
+    <list default="true" id="0769cc4c-ce01-41a2-a80b-de9f83db6974" name="Default Changelist" comment="correction video">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -138,14 +138,12 @@
       <workItem from="1607866506732" duration="2008000" />
       <workItem from="1607934129940" duration="76000" />
       <workItem from="1607956514443" duration="134000" />
-      <workItem from="1607967660022" duration="2793000" />
-    </task>
-    <task id="LOCAL-00044" summary="réalisation du rectangle &quot;nastygal&quot;">
-      <created>1607020306230</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1607020306230</updated>
+      <workItem from="1607967660022" duration="8672000" />
+      <workItem from="1608109605493" duration="600000" />
+      <workItem from="1610645972094" duration="66000" />
+      <workItem from="1610646263382" duration="3000" />
+      <workItem from="1610701717506" duration="5000" />
+      <workItem from="1610701764017" duration="631000" />
     </task>
     <task id="LOCAL-00045" summary="rectangle blanc du h2 de la galerie et dégradé linéaire">
       <created>1607029085424</created>
@@ -483,7 +481,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607868512166</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="correction video">
+      <created>1607972926966</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1607972926966</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -502,7 +507,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="correction du footer des positionnement relative/absolute" />
     <MESSAGE value="correction de la page d'accueil des positionnement relative/absolute" />
     <MESSAGE value="correction de la page article 2 des positionnement relative/absolute" />
     <MESSAGE value="correction de la page article 3 des positionnement relative/absolute" />
@@ -527,6 +531,7 @@
     <MESSAGE value="ajout des liens des réseaux sociaux et écosia /lilo" />
     <MESSAGE value="ajout de la vidéo" />
     <MESSAGE value="correction position absolute =&gt; relative" />
-    <option name="LAST_COMMIT_MESSAGE" value="correction position absolute =&gt; relative" />
+    <MESSAGE value="correction video" />
+    <option name="LAST_COMMIT_MESSAGE" value="correction video" />
   </component>
 </project>
